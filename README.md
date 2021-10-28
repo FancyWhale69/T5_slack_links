@@ -204,9 +204,34 @@ Lasso vs Ridge Regression for multicollinearity:
 
 - https://github.com/sinanuozdemir/sfdat22/raw/master/data/rossmann.csv  
 
+For those who have outliers and do not want to lose many observations, consider a logarithmic transformation of your features or/and the target. Another option is to use a Box-Cox Transformation, that will try to make the distribution Normal. This is an example of the Box-Cox transformation in Python:  
+- https://www.geeksforgeeks.org/box-cox-transformation-using-python/  
 
 # Module 4
-TBA  
+For your projects, the following sites might be of use:  
+- https://www.kaggle.com/  
+- https://datasetsearch.research.google.com/For  
+
+datasets pertaining to KSA:  
+- https://data.gov.sa/  
+
+A collection of up to date Saudi Arabia datasets in almost every sector:  
+- https://data.humdata.org/search?q=saudi+arabia&page=1  
+
+Some links for performing EDA for classification:  
+- https://www.analyticsvidhya.com/blog/2021/04/rapid-fire-eda-process-using-python-for-ml-implementation/  
+- https://www.datacamp.com/community/tutorials/kaggle-machine-learning-eda  
+- https://towardsdatascience.com/automating-eda-machine-learning-6ddb76c1eb4d  
+- https://medium.com/analytics-vidhya/automated-eda-for-classification77c25b847e43#:~:text=Exploratory%20Data%20Analysis%20refers,summary%20statistics%20and%20graphical%20representations  
+- https://towardsdatascience.com/doing-eda-on-a-classification-project-pandas-crosstab-will-change-your-life-c61c1cb2c20b  
+- https://towardsdatascience.com/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809  
+- https://www.datacamp.com/community/tutorials/kaggle-machine-learning-eda  
+
+
+End-to-End Projects and Analysis in Classification:  
+- https://github.com/gchavez2/code_machine_learning_algorithms  
+- http://blog.romanofoti.com/exploratory_classification_analysis/  
+- https://www.kaggle.com/stephaniestallworth/titanic-eda-classification-end-to-end  
 
 # Module 5
 TBA 
