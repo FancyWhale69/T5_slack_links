@@ -233,6 +233,122 @@ End-to-End Projects and Analysis in Classification:
 - http://blog.romanofoti.com/exploratory_classification_analysis/  
 - https://www.kaggle.com/stephaniestallworth/titanic-eda-classification-end-to-end  
 
+Below are two links to explain stacking ensembles in Python:  
+
+- https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python/  
+- https://www.analyticsvidhya.com/blog/2021/08/ensemble-stacking-for-machine-learning-and-deep-learning/   
+
+The following shows stacking on the Titanic Dataset:  
+- https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python  
+
+The following are useful for imbalanced datasets:  
+- https://towardsdatascience.com/how-to-deal-with-imbalanced-data-in-python-f9b71aba53eb  
+- https://towardsdatascience.com/how-to-effectively-predict-imbalanced-classes-in-python-e8cd3b5720c4  
+- https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/  
+- https://medium.com/geekculture/how-to-deal-with-class-imbalances-in-python-960908fe0425  
+- https://www.kdnuggets.com/2020/01/5-most-useful-techniques-handle-imbalanced-datasets.html  
+- https://www.researchgate.net/deref/https%3A%2F%2Fwww.kdnuggets.com%2F2017%2F06%2F7-techniques-handle-imbalanced-data.html  
+- https://amueller.github.io/aml/05-advanced-topics/11-imbalanced-datasets.html  
+- https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/  
+- https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets  
+- https://machinelearningmastery.com/undersampling-algorithms-for-imbalanced-classification/  
+- https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/  
+- https://machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification/  
+- https://machinelearningmastery.com/resources-for-imbalanced-classification/Metrics  
+
+for imbalanced classification:  
+- https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/  
+- https://towardsdatascience.com/metrics-for-imbalanced-classification-41c71549bbb5  
+- https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba  
+- https://stats.stackexchange.com/questions/222558/classification-evaluation-metrics-for-highly-imbalanced-dataCheck  
+
+this library for handling imbalanced datasets in Python:  
+- https://imbalanced-learn.org/   
+
+A good and simple explanation of evaluation metrics:  
+- https://medium.com/@MohammedS/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b  
+- https://blog.floydhub.com/a-pirates-guide-to-accuracy-precision-recall-and-other-scores/amp/  
+- https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall  
+- https://m.youtube.com/watch?v=8d3JbbSj-I8  
+
+End to End project with model serving on Flask:  
+- https://medium.com/swlh/lets-build-an-end-to-end-ml-project-with-python-and-flask-8652a508feba  
+- https://www.freecodecamp.org/news/end-to-end-machine-learning-project-turorial/  
+
+A nice Python tutorial on logistic regression (preprocessing - EDA - fitting - evaluation):  
+
+- https://www.kaggle.com/faressayah/logistic-regression-data-preprocessing  
+
+Hyperparameter search in scikit using pipelines:  
+
+- https://towardsdatascience.com/integrate-pipeline-into-scikit-learns-hyperparameter-search-e123c743b6a0https://towardsdatascience.com/pipelines-automated-machine-learning-with-hyperparameter-tuning-part-1-b9c06a99d3c3Hyperparameter  
+
+
+tuning in scikit learn:  
+- http://scikit-learn.org/stable/modules/grid_search.html  
+- https://towardsdatascience.com/hyperparameter-optimization-with-scikit-learn-scikit-opt-and-keras-f13367f3e796  
+- https://machinelearningmastery.com/scikit-optimize-for-hyperparameter-tuning-in-machine-learning/  
+
+If anyone plans on using Dash and plotly to build a dashboard for their projects:  
+
+- https://www.analyticsvidhya.com/blog/2020/11/classification-model-simulator-application-using-dash-in-python/  
+- https://towardsdatascience.com/build-a-dash-web-app-for-binary-classification-model-selection-56ee1636b461  
+- https://github.com/taylorplumer/classifiers-dash  
+- https://medium.com/data-science-lab-amsterdam/deploy-a-machine-learning-model-d6eab3b6d15  
+
+Logistic Regression explained in Python:  
+- https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8  
+- https://towardsdatascience.com/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1  
+
+Parallel Computing in XGBoost (for your reference):  
+- https://stackoverflow.com/questions/34151051/how-does-xgboost-do-parallel-computation#:~:text=Xgboost%20doesn't%20run%20multiple,and%20run%20with%20n_rounds%3D1.  
+- https://medium.com/blablacar/thinking-before-building-xgboost-parallelization-f1a3f37b6e68  
+- https://machinelearningmastery.com/best-tune-multithreading-support-xgboost-python/  
+
+An interesting take on hyperparameter optimization in Boosting using Bayesian Optimization:  
+- https://towardsdatascience.com/hyperparameter-optimization-in-gradient-boosting-packages-with-bayesian-optimization-aaf1b27e7b90  
+
+XGBoost for Classification:  
+- https://towardsdatascience.com/beginners-guide-to-xgboost-for-classification-problems-50f75aac5390  
+- https://towardsdatascience.com/getting-started-with-xgboost-in-scikit-learn-f69f5f470a97  
+- https://www.datacamp.com/community/tutorials/xgboost-in-python  
+
+Parameter Tuning in XGBoost:  
+- https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/  
+- https://towardsdatascience.com/fine-tuning-xgboost-in-python-like-a-boss-b4543ed8b1e  
+- https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663  
+- https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f  
+
+following your question on model interpretability, below are a few examples using the LIME and Shap packages:  
+- https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27  
+- https://towardsdatascience.com/explain-any-models-with-the-shap-values-use-the-kernelexplainer-79de9464897a  
+- https://medium.com/dataman-in-ai/explain-your-model-with-lime-5a1a5867b423  
+
+An implementation of different boosting algorithms in Python and the difference between them:  
+- https://towardsdatascience.com/how-to-select-between-boosting-algorithm-e8d1b15924f7  
+- https://towardsdatascience.com/stop-using-smote-to-handle-all-your-imbalanced-data-34403399d3be  
+
+and others who want to change the threshold in logistic regression based on Precision and Recall, take a look at these:  
+- https://towardsdatascience.com/calculating-and-setting-thresholds-to-optimise-logistic-regression-performance-c77e6d112d7e  
+- https://towardsdatascience.com/fine-tuning-a-classifier-in-scikit-learn-66e048c21e65  
+
+An example of automated Machine Learning. In this type of model, the machine does the model selection for you, so you could use it as an additional model in your projects:  
+- https://machinelearningmastery.com/hyperopt-for-automated-machine-learning-with-scikit-learn/  
+
+How to visualize the output of a tree in Python:  
+- https://towardsdatascience.com/visualizing-decision-trees-with-python-scikit-learn-graphviz-matplotlib-1c50b4aa68dc  
+
+Hyperparameter tuning in logistic regression with scikit:  
+- https://towardsdatascience.com/the-what-why-and-how-of-hyperparameter-tuning-for-machine-learning-models-1a2634e9ca9e  
+
+Hyperparameter tuning for Random Forests:  
+- https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74  
+- https://towardsdatascience.com/optimizing-hyperparameters-in-random-forest-classification-ec7741f9d3f6  
+ 
+Hyperparameter tuning for XGBoost:  
+- https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663  
+- https://www.kaggle.com/prashant111/a-guide-on-xgboost-hyperparameters-tuning  
+
 # Module 5
 TBA 
 
