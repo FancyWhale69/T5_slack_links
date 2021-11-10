@@ -349,8 +349,20 @@ Hyperparameter tuning for XGBoost:
 - https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663  
 - https://www.kaggle.com/prashant111/a-guide-on-xgboost-hyperparameters-tuning  
 
+these should cover multiclass classification:  
+https://towardsdatascience.com/comprehensive-guide-to-multiclass-classification-with-sklearn-127cc500f362Evaluation  
+metrics for multiclass classification:  
+https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2  
+https://medium.com/@shmueli/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1  
+https://towardsdatascience.com/comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd  
+
+
+
 # Module 5
-TBA 
+PCA Visualization:  
+https://setosa.io/ev/principal-component-analysis/  
+PCA Explanation (with eigenvectors...)  
+https://mlfromscratch.com/principal-component-analysis-pca-svd/#/  
 
 # Module 6
 TBA 
