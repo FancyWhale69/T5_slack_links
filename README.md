@@ -328,7 +328,7 @@ An implementation of different boosting algorithms in Python and the difference 
 - https://towardsdatascience.com/how-to-select-between-boosting-algorithm-e8d1b15924f7  
 - https://towardsdatascience.com/stop-using-smote-to-handle-all-your-imbalanced-data-34403399d3be  
 
-and others who want to change the threshold in logistic regression based on Precision and Recall, take a look at these:  
+Fo change the threshold in logistic regression based on Precision and Recall:  
 - https://towardsdatascience.com/calculating-and-setting-thresholds-to-optimise-logistic-regression-performance-c77e6d112d7e  
 - https://towardsdatascience.com/fine-tuning-a-classifier-in-scikit-learn-66e048c21e65  
 
@@ -349,20 +349,76 @@ Hyperparameter tuning for XGBoost:
 - https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663  
 - https://www.kaggle.com/prashant111/a-guide-on-xgboost-hyperparameters-tuning  
 
-these should cover multiclass classification:  
-https://towardsdatascience.com/comprehensive-guide-to-multiclass-classification-with-sklearn-127cc500f362Evaluation  
-metrics for multiclass classification:  
-https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2  
-https://medium.com/@shmueli/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1  
-https://towardsdatascience.com/comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd  
+Multiclass classification:  
+- https://towardsdatascience.com/comprehensive-guide-to-multiclass-classification-with-sklearn-127cc500f362Evaluation  
+
+Metrics for multiclass classification:  
+- https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2  
+- https://medium.com/@shmueli/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1  
+- https://towardsdatascience.com/comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd  
 
 
 
 # Module 5
 PCA Visualization:  
-https://setosa.io/ev/principal-component-analysis/  
+- https://setosa.io/ev/principal-component-analysis/  
+
 PCA Explanation (with eigenvectors...)  
-https://mlfromscratch.com/principal-component-analysis-pca-svd/#/  
+- https://mlfromscratch.com/principal-component-analysis-pca-svd/#/  
+
+Sentiment analysis (Unsupervised Learning) in Python notebook with explanations:
+- https://www.kaggle.com/hassanamin/unsupervised-sentiment-analysis-using-vader
+
+Fine Tuning LDA:
+- https://towardsdatascience.com/6-tips-to-optimize-an-nlp-topic-model-for-interpretability-20742f3047e2
+- https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/
+- https://towardsdatascience.com/the-complete-guide-for-topics-extraction-in-python-a6aaa6cedbbc
+- https://github.com/FelixChop/MediumArticles/blob/master/LDA-BBC.ipynb
+- https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0
+- https://github.com/kapadias/mediumposts/blob/master/natural_language_processing/topic_modeling/notebooks/Evaluate%20Topic%20Models.ipynb
+- https://towardsdatascience.com/the-complete-guide-for-topics-extraction-in-python-a6aaa6cedbbc
+- https://alvinntnu.github.io/NTNU_ENC2045_LECTURES/nlp/topic-modeling-naive.html#hyperparameter-tuning
+- https://www.linkedin.com/pulse/nlp-a-complete-guide-topic-modeling-latent-dirichlet-sahil-m
+
+Visualizing Topic Models:
+- https://towardsdatascience.com/visualizing-topic-models-with-scatterpies-and-t-sne-f21f228f7b02
+- https://www.kaggle.com/yohanb/lda-visualized-using-t-sne-and-bokeh
+- https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/#13.-t-SNE-Clustering-Chart
+- https://towardsdatascience.com/visualizing-topic-models-with-scatterpies-and-t-sne-f21f228f7b02
+
+Clustering with Topic Modeling:
+- https://www.kaggle.com/panks03/clustering-with-topic-modeling-using-lda
+
+Recommender Systems
+- https://towardsdatascience.com/build-a-text-recommendation-system-with-python-e8b95d9f251c
+- https://github.com/bledem/movie_recommendation/blob/main/recommendation_movie.ipynb
+- https://www.kaggle.com/rounakbanik/the-movies-dataset
+- https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101
+- https://realpython.com/build-recommendation-engine-collaborative-filtering/
+- https://analyticsindiamag.com/a-guide-to-surprise-python-tool-for-recommender-systems/
+- https://towardsdatascience.com/machine-learning-for-building-recommender-system-in-python-9e4922dd7e97
+
+An application of dimensionality reduction (PCA) in NLP (Sentiment Analysis):
+- https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-8-dimensionality-reduction-chi2-pca-c6d06fb3fcf3
+
+Hyperparameter Tuning in Latent Semantic Analysis:
+- https://stackoverflow.com/questions/69091520/determine-the-correct-number-of-topics-using-latent-semantic-analysis
+
+K-Means Visualization:
+- https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+
+Sentiment Analysis Kaggle Notebooks:
+- https://www.kaggle.com/sid321axn/natural-language-processing-sentiment-analysis
+- https://www.kaggle.com/ngyptr/python-nltk-sentiment-analysis
+- https://www.kaggle.com/parth05rohilla/sentiment-analysis-using-7-different-techniques
+- https://www.kaggle.com/paoloripamonti/twitter-sentiment-analysis
+
+Text Clustering (an applications of K-Means in NLP):
+- https://towardsdatascience.com/text-clustering-using-k-means-ec19768aae48
+- https://pythonprogramminglanguage.com/kmeans-text-clustering/
+- https://towardsdatascience.com/text-clustering-using-k-means-ec19768aae48
+- https://medium.com/@rohithramesh1991/unsupervised-text-clustering-using-natural-language-processing-nlp-1a8bc18b048d
+- https://github.com/rohithramesh1991/Unsupervised-Text-Clustering
 
 # Module 6
 TBA 
