@@ -13,9 +13,17 @@ All the links are orginized by module for example all the links sent during modu
 - [Module 6 Nov 21 - Dec 2](#Module-6)
 
 # Module 1
-- https://evangelinereynolds.netlify.app/post/geometric-covariance/  
+
+A Geometric Explanation of the Covariance:
+- https://evangelinereynolds.netlify.app/post/geometric-covariance/ 
+
+Pros and Cons of using Heatmaps for Visualization:
 - https://stats.stackexchange.com/questions/282180/are-heat-maps-one-of-the-least-effective-types-of-data-visualization
+
+Lower Triangular Correlation Matrix Heatmap:
 - https://cmdlinetips.com/2020/02/lower-triangle-correlation-heatmap-python/
+
+Correlation is not Causation"
 - https://link.medium.com/fnWgmsTkIjb
 
 # Module 2
