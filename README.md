@@ -448,5 +448,26 @@ Text Clustering (an applications of K-Means in NLP):
 - https://medium.com/@rohithramesh1991/unsupervised-text-clustering-using-natural-language-processing-nlp-1a8bc18b048d
 - https://github.com/rohithramesh1991/Unsupervised-Text-Clustering
 
+Datasets for Recommender Systems:
+- https://analyticsindiamag.com/10-open-source-datasets-one-must-know-to-build-recommender-systems/
+
+NLP Project Ideas:
+- https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c
+
+Topic Modeling vs Word Embeddings:
+- https://medium.com/voice-tech-podcast/topic-modeling-with-lsa-plsa-lda-and-word-embedding-51bc2540b78d
+
+Topic Modeling with Word2Vec:
+- https://www.baeldung.com/cs/ml-word2vec-topic-modeling
+
+Examples of NLP applications in Python for Arabic Text:
+- https://towardsdatascience.com/arabic-topic-classification-on-the-hespress-news-dataset-7adceef12bed
+- https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b
+- https://github.com/topics/arabic-nlp
+
+Hierarchical Dirichlet Process: a non-parametric alternative to LDA for topic modeling:
+- https://towardsdatascience.com/dont-be-afraid-of-nonparametric-topic-models-part-2-python-e5666db347a
+- https://radimrehurek.com/gensim/models/hdpmodel.html
+- https://datascience.stackexchange.com/questions/128/latent-dirichlet-allocation-vs-hierarchical-dirichlet-process
 # Module 6
 TBA 
