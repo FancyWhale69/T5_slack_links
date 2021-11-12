@@ -26,73 +26,97 @@ Correlation is not Causation:
 - https://link.medium.com/fnWgmsTkIjb
 
 # Module 2: EDA
+- http://datacamp-community-prod.s3.amazonaws.com/da466534-51fe-4c6d-b0cb-154f4782eb54
+- https://www.youtube.com/watch?v=U7uY9AOZPVQ
+
+Metis Sample Presentations:
 - https://youtu.be/mqf6eTkXpho (Good presentation)
 - https://www.youtube.com/watch?v=dQkwh5wNJDU (Bad presentation)
+
+MTA Projects:
 - https://andrew-k-auyeung.medium.com/exploring-mta-turnstile-data-b22026cf9433
 - https://medium.com/@sitingkoh1808/metis-project-1-exploratory-data-analysis-eda-on-mta-turnstile-data-b139549892a
 - https://towardsdatascience.com/mta-turstile-data-my-first-taste-of-a-data-science-project-493b03f1708a
 - https://towardsdatascience.com/mta-turnstile-traffic-analysis-to-optimize-street-engagements-a7391adc4d45
+- https://q-shick.github.io/portfolio/proj_mta_nyc.html
+- https://samirthanedar.github.io/2020/04/06/NYC-MTA-EDA/
+- https://github.com/vincent-thompson/mta_turnstile_exploratory_data_analysis
+- https://github.com/davidluther/Metis-Projects
+- https://github.com/jocelynlau/metis-project-1
+- https://github.com/yalinyener/EDA-MTA-Turnstile
+- https://towardsdatascience.com/mta-turnstile-traffic-analysis-to-optimize-street-engagements-a7391adc4d45
+- https://www.kaggle.com/nieyuqi/mta-turnstile-data-analysis
+
+MTA Project with Mapping:
+- https://www.tobiasbartsch.com/plotting-a-map-of-the-nyc-subway-system/
+
+SQL Syntax
 - https://www.w3schools.com/sql/default.asp
+
+Data Visualization:
 - https://medium.com/gobeyond-ai/7-key-principles-of-effective-data-visualization-b854b0b81946
 - https://towardsdatascience.com/the-5-most-important-principles-of-data-visualization-455225a6c4b3
 - https://datafloq.com/read/amp/the-12-basic-principles-of-data-visualization/3848
 - https://mschermann.github.io/data_viz_reader/fundamentals.html
+
+Visualization in Python:
+- https://towardsdatascience.com/complete-guide-to-data-visualization-with-python-2dd74df12b5e
+- https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
+- https://medium.com/codex/beyond-matplotlib-and-seaborn-python-data-visualization-tools-that-work-3ef7f8d1500e
+
+Imperative vs Declarative Programming:
 - https://medium.com/@vincentbacalso/imperative-vs-declarative-programming-f886d3b65595
+
+Column-Oriented Databases:
 - https://www.quora.com/Why-are-column-oriented-database-more-suitable-for-analytics-than-the-traditional-row-oriented-database
+
+Key-Value Store Databases:
 - https://stackoverflow.com/questions/1500611/when-to-use-a-key-value-data-store-vs-a-more-traditional-relational-db
+
+Graph Databases vs Relational Databases:
 - https://stackoverflow.com/questions/13046442/comparison-of-relational-databases-and-graph-databases
 
 Using SQL in Pandas:
 - https://towardsdatascience.com/how-to-use-sql-in-pandas-62d8a0f6341
 - https://towardsdatascience.com/pandas-to-sql-moving-code-from-sql-to-python-and-pandas-afc4c62a644c
 
+EDA in Pandas:
 - https://www.analyticsvidhya.com/blog/2021/04/20-must-known-pandas-function-for-exploratory-data-analysis-eda/
 - https://towardsdatascience.com/exploratory-data-analysis-eda-visualization-using-pandas-ca5a04271607
-- https://towardsdatascience.com/the-best-exploratory-data-analysis-with-pandas-profiling-e85b4d514583
-- https://github.com/yalinyener/EDA-MTA-Turnstile
-- https://towardsdatascience.com/mta-turnstile-traffic-analysis-to-optimize-street-engagements-a7391adc4d45
-- https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
 - https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python
-- https://www.kaggle.com/nieyuqi/mta-turnstile-data-analysis
-- https://towardsdatascience.com/complete-guide-to-data-visualization-with-python-2dd74df12b5e
-- https://shravan-kuchkula.github.io/nyc-airbnb-price-distribution/
-- https://q-shick.github.io/portfolio/proj_mta_nyc.html
-- https://samirthanedar.github.io/2020/04/06/NYC-MTA-EDA/
-- https://github.com/vincent-thompson/mta_turnstile_exploratory_data_analysis
-- https://github.com/davidluther/Metis-Projects
-- https://github.com/jocelynlau/metis-project-1
+- https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
+
+EDA using Pandas Profiling:
+- https://towardsdatascience.com/the-best-exploratory-data-analysis-with-pandas-profiling-e85b4d514583
 
 EDA in Python using Dataprep:
 - https://towardsdatascience.com/dataprep-eda-accelerate-your-eda-eb845a4088bc
 - https://towardsdatascience.com/automating-eda-using-dataprep-2b541b6a3149
 
-
-- https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
-- http://datacamp-community-prod.s3.amazonaws.com/da466534-51fe-4c6d-b0cb-154f4782eb54
-- https://medium.com/codex/beyond-matplotlib-and-seaborn-python-data-visualization-tools-that-work-3ef7f8d1500e
-- https://www.youtube.com/watch?v=U7uY9AOZPVQ
-- https://www.tobiasbartsch.com/plotting-a-map-of-the-nyc-subway-system/
+Another EDA Project:
+- https://shravan-kuchkula.github.io/nyc-airbnb-price-distribution/
 
 Heatmap (Seaborn):
 - https://stackabuse.com/ultimate-guide-to-heatmaps-in-seaborn-with-python/
 
-Heatmap:
+Heatmap in Python:
 - https://blog.algorexhealth.com/2017/09/10-heatmaps-10-python-libraries/
 
 Pandas Cheat Sheet:
 - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
-Map, Filter and Reduce:
+Map, Filter and Reduce in Python:
 - https://stackabuse.com/map-filter-and-reduce-in-python-with-examples/
 - https://towardsdatascience.com/python-map-filter-and-reduce-9a888545e9fc
 - https://towardsdatascience.com/accelerate-your-python-list-handling-with-map-filter-and-reduce-d70941b19e52- https://towardsdatascience.com/the-next-level-of-functional-programming-in-python-bc534b9bdce1
 
-Map Function:
+Map Function in Python:
 - https://realpython.com/python-map-function/
 
-Reduce Function:
+Reduce Function in Python:
 - https://realpython.com/python-reduce-function/
 
+Seaborn Color Palette:
 - http://man.hubwiz.com/docset/Seaborn.docset/Contents/Resources/Documents/generated/seaborn.color_palette.html
 
 # Module 3: Regression
@@ -211,6 +235,7 @@ For an overview of the three regularization methods in the context of Python:
 Lasso vs Ridge Regression for multicollinearity:
 - https://www.quora.com/What-is-the-effect-of-collinearity-on-Lasso-vs-Ridge-regression-Which-is-better-in-the-case-of-collinearity  
 
+Rossman Data for the Time Series Notebook:
 - https://github.com/sinanuozdemir/sfdat22/raw/master/data/rossmann.csv  
 
 For those who have outliers and do not want to lose many observations, consider a logarithmic transformation of your features or/and the target. Another option is to use a Box-Cox Transformation, that will try to make the distribution Normal. This is an example of the Box-Cox transformation in Python:  
