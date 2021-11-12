@@ -5,12 +5,12 @@ This repo contain all the links sent to T5C05 channel on slack.
 All the links are orginized by module for example all the links sent during module one will be grouped together.  
 
 # Index:  
-- [Module 1 Sep 12 - Sep 23](#Module 1: Basic Python and Math)
-- [Module 2 Sep 26 - Oct 7](#Module 2: Exploratory Data Analysis)
-- [Module 3 Oct 10 - Oct 21](#Module 3: Regression)
-- [Module 4 Oct 24 - Nov 4](#Module 4: Classification)
-- [Module 5 Nov 7 - Nov 18](#Module 5: Unsupervised Learning)
-- [Module 6 Nov 21 - Dec 2](#Module 6: Deep Learning)
+- [Module-1: Basic Python and Math Sep 12 - Sep 23](#Module-1:-BPM)
+- [Module 2: Exploratory Data Analysis Sep 26 - Oct 7](#Module-2:-EDA)
+- [Module 3: Regression Oct 10 - Oct 21](#Module-3:-Regression)
+- [Module 4: Classification Oct 24 - Nov 4](#Module-4:-Classification)
+- [Module 5: Unsupervised Learning Nov 7 - Nov 18](#Module-5-Unsupervised-Learning)
+- [Module 6: Deep Learning Nov 21 - Dec 2](#Module-6:-Deep-Learning)
 
 # Module 1: BPM
 A Geometric Explanation of the Covariance:
@@ -470,5 +470,5 @@ Hierarchical Dirichlet Process: a non-parametric alternative to LDA for topic mo
 - https://towardsdatascience.com/dont-be-afraid-of-nonparametric-topic-models-part-2-python-e5666db347a
 - https://radimrehurek.com/gensim/models/hdpmodel.html
 - https://datascience.stackexchange.com/questions/128/latent-dirichlet-allocation-vs-hierarchical-dirichlet-process
-# Module 6
+# Module 6: Deep Learning
 TBA 
