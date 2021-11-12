@@ -147,7 +147,8 @@ Leverage Plots:
 
 Diagnostic Plots:
 - https://towardsdatascience.com/going-from-r-to-python-linear-regression-diagnostic-plots-144d1c4aa5a
-- Regression Visualization with YellowBrick library:
+
+Regression Visualization with YellowBrick library:
 - https://www.scikit-yb.org/en/latest/api/regressor/index.html
 - https://hersanyagci.medium.com/yellowbrick-machine-learning-visualization-a8c2e9cae78e
 - https://coderzcolumn.com/tutorials/machine-learning/yellowbrick-visualize-sklearn-classification-and-regression-metrics-in-python
