@@ -437,10 +437,10 @@ k-Means Visualization:
 - https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
 
 k-Medoids:
-https://analyticsindiamag.com/comprehensive-guide-to-k-medoids-clustering-algorithm/
-https://www.geeksforgeeks.org/ml-k-medoids-clustering-with-example/amp/
-https://iq.opengenus.org/k-medoids-clustering/amp/
-https://towardsdatascience.com/k-medoids-clustering-on-iris-data-set-1931bf781e05
+- https://analyticsindiamag.com/comprehensive-guide-to-k-medoids-clustering-algorithm/
+- https://www.geeksforgeeks.org/ml-k-medoids-clustering-with-example/amp/
+- https://iq.opengenus.org/k-medoids-clustering/amp/
+- https://towardsdatascience.com/k-medoids-clustering-on-iris-data-set-1931bf781e05
 
 Gaussian Mixture Models:
 - https://towardsdatascience.com/gmm-gaussian-mixture-models-how-to-successfully-use-it-to-cluster-your-data-891dc8ac058f
