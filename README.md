@@ -433,8 +433,25 @@ An application of dimensionality reduction (PCA) in NLP (Sentiment Analysis):
 Hyperparameter Tuning in Latent Semantic Analysis:
 - https://stackoverflow.com/questions/69091520/determine-the-correct-number-of-topics-using-latent-semantic-analysis
 
-K-Means Visualization:
+k-Means Visualization:
 - https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+
+k-Medoids:
+https://analyticsindiamag.com/comprehensive-guide-to-k-medoids-clustering-algorithm/
+https://www.geeksforgeeks.org/ml-k-medoids-clustering-with-example/amp/
+https://iq.opengenus.org/k-medoids-clustering/amp/
+https://towardsdatascience.com/k-medoids-clustering-on-iris-data-set-1931bf781e05
+
+Gaussian Mixture Models:
+- https://towardsdatascience.com/gmm-gaussian-mixture-models-how-to-successfully-use-it-to-cluster-your-data-891dc8ac058f
+- https://pythonmachinelearning.pro/clustering-with-gaussian-mixture-models/
+- https://www.analyticsvidhya.com/blog/2019/10/gaussian-mixture-models-clustering/
+
+Similarity Clustering Visualization:
+- https://towardsdatascience.com/visualising-similarity-clusters-with-interactive-graphs-20a4b2a18534
+
+A Survey on Clustering Algorithms:
+- https://dmkd.cs.vt.edu/papers/kmeans13.pdf
 
 Sentiment Analysis Kaggle Notebooks:
 - https://www.kaggle.com/sid321axn/natural-language-processing-sentiment-analysis
@@ -470,5 +487,19 @@ Hierarchical Dirichlet Process: a non-parametric alternative to LDA for topic mo
 - https://towardsdatascience.com/dont-be-afraid-of-nonparametric-topic-models-part-2-python-e5666db347a
 - https://radimrehurek.com/gensim/models/hdpmodel.html
 - https://datascience.stackexchange.com/questions/128/latent-dirichlet-allocation-vs-hierarchical-dirichlet-process
+
+Topic Modeling using BERTopic, a state-of-the-art model in NLP based on BERT (BiDirectional Encoders Representations from Transformers):
+- https://hackernoon.com/nlp-tutorial-topic-modeling-in-python-with-bertopic-372w35l9?source=rss
+- https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6
+- https://medium.com/analytics-vidhya/bert-for-topic-modeling-bert-vs-lda-8076e72c602b
+- https://www.kaggle.com/dskswu/topic-modeling-bert-lda
+- https://medium.com/geekculture/nlp-tutorial-topic-modeling-in-python-with-bertopic-da760e1d03aa
+
+Word Embeddings:
+- https://neptune.ai/blog/word-embeddings-guide/amp
+- https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795
+- https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
+- https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/?amp
+- https://stackabuse.com/python-for-nlp-word-embeddings-for-deep-learning-in-keras/
 # Module 6
 TBA 
