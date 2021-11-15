@@ -427,6 +427,11 @@ Recommender Systems
 - https://analyticsindiamag.com/a-guide-to-surprise-python-tool-for-recommender-systems/
 - https://towardsdatascience.com/machine-learning-for-building-recommender-system-in-python-9e4922dd7e97
 
+NLP-based Recommender Systems:
+- https://medium.com/@armandj.olivares/building-nlp-content-based-recommender-systems-b104a709c042
+- https://www.kdnuggets.com/2019/11/content-based-recommender-using-natural-language-processing-nlp.html
+- https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system
+
 An application of dimensionality reduction (PCA) in NLP (Sentiment Analysis):
 - https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-8-dimensionality-reduction-chi2-pca-c6d06fb3fcf3
 
