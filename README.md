@@ -507,4 +507,61 @@ Word Embeddings:
 - https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/?amp
 - https://stackabuse.com/python-for-nlp-word-embeddings-for-deep-learning-in-keras/
 # Module 6
-TBA 
+
+Activation Functions
+
+Hidden Layers
+
+Vanishing Gradient
+
+Neural Network Optimization:
+- https://towardsdatascience.com/overview-of-various-optimizers-in-neural-networks-17c1be2df6d5
+- https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
+- https://www.deeplearning.ai/ai-notes/optimization/
+
+Backprogagation:
+- https://hmkcode.com/ai/backpropagation-step-by-step/
+- https://hmkcode.com/netflow/
+- http://experiments.mostafa.io/public/ffbpann/
+- https://mmuratarat.github.io/2020-01-09/backpropagation
+- https://inblog.in/Part-2-Training-a-Neural-Network-with-Backpropagation-Mathematics-bdyEJx6bKU
+- https://steemit.com/deep-learning/@cristi/backpropagation-step-by-step-the-mathematical-approach
+- https://medium.com/swlh/backpropagation-step-by-step-13f2b6c0b414
+
+Backpropagation and Gradient Descent:
+- https://towardsdatascience.com/a-step-by-step-implementation-of-gradient-descent-and-backpropagation-d58bda486110
+- 
+
+Weights Initialization:
+- https://medium.com/@safrin1128/weight-initialization-in-neural-network-inspired-by-andrew-ng-e0066dc4a566#:~:text=Zero%20initialization%3A&text=If%20all%20the%20weights%20are,will%20produce%20a%20poor%20result.
+
+Tips for Training Neural Networks:
+- https://karpathy.github.io/2019/04/25/recipe/
+
+Pytorch Introduction
+
+Ames Housing Dataset using Pytorch (we used Keras in class):
+- https://www.kaggle.com/achinta/pytorch-for-house-pricing
+- https://www.kaggle.com/jongbeompark/house-prices-with-pytorch
+- https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/chapter_multilayer-perceptrons/kaggle-house-price.ipynb
+
+CNN Slides used in class:
+
+Padding in CNN:
+- https://analyticsindiamag.com/guide-to-different-padding-methods-for-cnn-models/
+
+Deep Learning Notebooks by Francois Chollet:
+- https://github.com/fchollet/deep-learning-with-python-notebooks
+
+Generative Adversarial Networks (GAN) Notebooks:
+- https://colab.research.google.com/github/smartgeometry-ucl/dl4g/blob/master/gan.ipynb
+- https://github.com/jonbruner/generative-adversarial-networks
+- https://github.com/wiseodd/generative-models
+
+Explaining the Black-Box in Neural Networks:
+
+Deep Learning Model Serving:
+- https://medium.com/nerd-for-tech/optimizers-for-neural-networks-a74cb4152307
+
+Deep Learning for Computer Vision Notebook:
+- https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb
