@@ -561,6 +561,7 @@ TensorBoard in Keras:
 - https://neptune.ai/blog/tensorboard-tutorial
 
 Pytorch Introduction
+- https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 - https://cs230.stanford.edu/blog/pytorch/
 - https://theblog.github.io/post/from-tensorflow-to-pytorch/
 - https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html
@@ -580,7 +581,8 @@ Tensorflow vs Pytorch:
 Convolutional Neural Networks:
 - https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network
 - https://poloclub.github.io/cnn-explainer/ (Courtesy of Ahmed)
--
+- https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/
+
 CNN Slides used in class:
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-what-are-convolutional-neural-networks
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-step-1-convolution-operation
@@ -590,11 +592,38 @@ CNN Slides used in class:
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-step-4-full-connection
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-summary
 
+Filters and Feature Maps Visualization:
+- https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/
+
+Innovations in CNN for image classification:
+- https://machinelearningmastery.com/review-of-architectural-innovations-for-convolutional-neural-networks-for-image-classification/
+
+Data Augmentation for CNN:
+- https://machinelearningmastery.com/best-practices-for-preparing-and-augmenting-image-data-for-convolutional-neural-networks/
+- https://www.tensorflow.org/tutorials/images/data_augmentation
+- https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
+- https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/
+- https://medium.com/featurepreneur/image-data-augmentation-using-keras-imagedatagenerator-1cee60255ea8
+ 
+Image Data Preprocessing in Keras:
+- https://keras.io/api/preprocessing/image/
+- https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/
+ 
+Loading and Saving Images with Keras:
+- https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/
+- https://machinelearningmastery.com/how-to-load-and-manipulate-images-for-deep-learning-in-python-with-pil-pillow/
+
 Padding in CNN:
 - https://analyticsindiamag.com/guide-to-different-padding-methods-for-cnn-models/
 
+Padding and stride in CNN:
+- https://machinelearningmastery.com/padding-and-stride-for-convolutional-neural-networks/
+
 Convolutional Layer in CNN:
 - https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/
+
+Pooling Layer in CNN:
+- https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
 
 Deep Learning Notebooks by Francois Chollet:
 - https://github.com/fchollet/deep-learning-with-python-notebooks
@@ -621,6 +650,7 @@ Model Serialization for Deep Learning (similar to pickling):
 
 Deep Learning Model Serving:
 - https://neptune.ai/blog/ml-model-serving-best-tools
+- https://towardsdatascience.com/serve-your-machine-learning-models-with-a-simple-python-server-5a72d005e0ae
 
 Deep Learning Model Serving with TensorFlow:
 - https://www.tensorflow.org/serving/
@@ -630,3 +660,28 @@ Deep Learning Model Serving with Pytorch:
 
 Deep Learning for Computer Vision Notebook:
 - https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb
+
+Object Detection with Keras:
+- https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
+
+Image Classification Tutorial:
+- https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
+
+Face Detection with Keras:
+- https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
+
+Face Recognition using Keras:
+- https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
+
+CNN for MNIST dataset:
+- https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
+
+Satellite Image Classification:
+- https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-satellite-photos-of-the-amazon-rainforest/
+
+End-to-End Deep Learning Projects in Keras:
+- https://towardsdatascience.com/an-end-to-end-machine-learning-project-with-python-pandas-keras-flask-docker-and-heroku-c987018c42c7
+- https://medium.com/analytics-vidhya/end-to-end-image-classification-project-using-tensorflow-46e78298fa2f
+- https://varshitasher.medium.com/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16
+- https://github.com/V-Sher/house-interior-prediction
+- https://www.storytel.com/it/it/books/keras-2-x-projects-9-projects-demonstrating-faster-experimentation-of-neural-network-and-deep-learning-applications-using-keras-891395
