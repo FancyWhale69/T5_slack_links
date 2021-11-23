@@ -5,12 +5,12 @@ This repo contain all the links sent to T5C05 channel on slack.
 All the links are orginized by module for example all the links sent during module one will be grouped together.  
 
 # Index:  
-- [Module 1 Sep 12 - Sep 23](#Module 1: Basic Python and Math)
-- [Module 2 Sep 26 - Oct 7](#Module 2: Exploratory Data Analysis)
-- [Module 3 Oct 10 - Oct 21](#Module 3: Regression)
-- [Module 4 Oct 24 - Nov 4](#Module 4: Classification)
-- [Module 5 Nov 7 - Nov 18](#Module 5: Unsupervised Learning)
-- [Module 6 Nov 21 - Dec 2](#Module 6: Deep Learning)
+- [Module-1: Basic Python and Math Sep 12 - Sep 23](#Module-1-BPM)
+- [Module 2: Exploratory Data Analysis Sep 26 - Oct 7](#Module-2-EDA)
+- [Module 3: Regression Oct 10 - Oct 21](#Module-3-Regression)
+- [Module 4: Classification Oct 24 - Nov 4](#Module-4-Classification)
+- [Module 5: Unsupervised Learning Nov 7 - Nov 18](#Module-5-Unsupervised-Learning)
+- [Module 6: Deep Learning Nov 21 - Dec 2](#Module-6-Deep-Learning)
 
 # Module 1: BPM
 A Geometric Explanation of the Covariance:
@@ -506,7 +506,8 @@ Word Embeddings:
 - https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
 - https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/?amp
 - https://stackabuse.com/python-for-nlp-word-embeddings-for-deep-learning-in-keras/
-# Module 6
+
+# Module 6: Deep Learning
 
 Activation Functions
 - https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
@@ -685,3 +686,5 @@ End-to-End Deep Learning Projects in Keras:
 - https://varshitasher.medium.com/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16
 - https://github.com/V-Sher/house-interior-prediction
 - https://www.storytel.com/it/it/books/keras-2-x-projects-9-projects-demonstrating-faster-experimentation-of-neural-network-and-deep-learning-applications-using-keras-891395
+
+
