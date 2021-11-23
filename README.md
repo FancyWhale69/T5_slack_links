@@ -509,20 +509,29 @@ Word Embeddings:
 # Module 6
 
 Activation Functions
+- https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
+- https://www.v7labs.com/blog/neural-networks-activation-functions
+- https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0
+- https://www.machinecurve.com/index.php/2019/09/04/relu-sigmoid-and-tanh-todays-most-used-activation-functions/
+- https://www.aitude.com/comparison-of-sigmoid-tanh-and-relu-activation-functions/
+- https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0
+- https://himanshuxd.medium.com/activation-functions-sigmoid-relu-leaky-relu-and-softmax-basics-for-neural-networks-and-deep-8d9c70eed91e
 
 Hidden Layers
+- https://medium.com/fintechexplained/what-are-hidden-layers-4f54f7328263
+- https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute
+- https://www.quora.com/What-is-the-role-of-a-hidden-layer
 
 Vanishing Gradient
 - https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/
 - https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484
 - https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/
-- 
+ 
 Neural Network Optimization:
 - https://towardsdatascience.com/overview-of-various-optimizers-in-neural-networks-17c1be2df6d5
 - https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
 - https://www.deeplearning.ai/ai-notes/optimization/
 - https://medium.com/nerd-for-tech/optimizers-for-neural-networks-a74cb4152307
-
 
 Backprogagation:
 - https://hmkcode.com/ai/backpropagation-step-by-step/
@@ -541,12 +550,32 @@ Weights Initialization:
 Tips for Training Neural Networks:
 - https://karpathy.github.io/2019/04/25/recipe/
 
-Pytorch Introduction
+Callbacks in Keras:
+- https://keras.io/api/callbacks/
+- https://www.kdnuggets.com/2019/08/keras-callbacks-explained-three-minutes.html
 
+TensorBoard in Keras:
+- https://keras.io/api/callbacks/tensorboard
+- https://www.tensorflow.org/tensorboard/scalars_and_keras
+- https://www.machinecurve.com/index.php/2019/11/13/how-to-use-tensorboard-with-keras/
+- https://neptune.ai/blog/tensorboard-tutorial
+
+Pytorch Introduction
+- https://cs230.stanford.edu/blog/pytorch/
+- https://theblog.github.io/post/from-tensorflow-to-pytorch/
+- https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html
+ 
 Ames Housing Dataset using Pytorch (we used Keras in class):
 - https://www.kaggle.com/achinta/pytorch-for-house-pricing
 - https://www.kaggle.com/jongbeompark/house-prices-with-pytorch
 - https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/chapter_multilayer-perceptrons/kaggle-house-price.ipynb
+
+Keras vs Pytorch Notebook:
+- https://deepsense.ai/keras-or-pytorch/
+- https://www.freecodecamp.org/news/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02/
+
+Tensorflow vs Pytorch:
+- https://towardsdatascience.com/tensorflow-or-pytorch-146f5397278a
 
 Convolutional Neural Networks:
 - https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network
@@ -564,6 +593,9 @@ CNN Slides used in class:
 Padding in CNN:
 - https://analyticsindiamag.com/guide-to-different-padding-methods-for-cnn-models/
 
+Convolutional Layer in CNN:
+- https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/
+
 Deep Learning Notebooks by Francois Chollet:
 - https://github.com/fchollet/deep-learning-with-python-notebooks
 
@@ -573,8 +605,28 @@ Generative Adversarial Networks (GAN) Notebooks:
 - https://github.com/wiseodd/generative-models
 
 Explaining the Black-Box in Neural Networks:
+- https://www.analyticsvidhya.com/blog/2020/03/6-python-libraries-interpret-machine-learning-models/
+- https://towardsdatascience.com/6-top-python-packages-for-machine-learning-interpretability-f9fec3c2d1e9
+- https://analyticsindiamag.com/4-python-libraries-for-getting-better-model-interpretability/
+- https://towardsdatascience.com/interpretability-of-deep-learning-models-9f52e54d72ab
+- https://towardsdatascience.com/guide-to-interpretable-machine-learning-d40e8a64b6cf
+- https://towardsdatascience.com/interpretable-neural-networks-45ac8aa91411
+- https://towardsdatascience.com/interpretability-of-deep-learning-models-9f52e54d72ab
+
+AutoKeras (Automated Keras):
+- https://github.com/keras-team/autokeras
+
+Model Serialization for Deep Learning (similar to pickling):
+- https://github.com/onnx/onnx
 
 Deep Learning Model Serving:
 - https://neptune.ai/blog/ml-model-serving-best-tools
+
+Deep Learning Model Serving with TensorFlow:
+- https://www.tensorflow.org/serving/
+
+Deep Learning Model Serving with Pytorch:
+- https://pytorch.org/serve/
+
 Deep Learning for Computer Vision Notebook:
 - https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb
