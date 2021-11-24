@@ -542,6 +542,7 @@ Backprogagation:
 - https://mmuratarat.github.io/2020-01-09/backpropagation
 - https://inblog.in/Part-2-Training-a-Neural-Network-with-Backpropagation-Mathematics-bdyEJx6bKU
 - https://medium.com/swlh/backpropagation-step-by-step-13f2b6c0b414
+- https://towardsdatascience.com/the-maths-behind-back-propagation-cf6714736abf
 
 Backpropagation and Gradient Descent:
 - https://towardsdatascience.com/a-step-by-step-implementation-of-gradient-descent-and-backpropagation-d58bda486110
