@@ -694,3 +694,12 @@ Tensorflow.js and Keras.js for using Deep Learning Models in the Browser:
 
 Project Ideas:
 - https://github.com/NirantK/awesome-project-ideas
+- https://github.com/21-projects-for-deep-learning
+- https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/blob/main/README.md
+
+Named Entity Recognition (NER):
+- https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede
+
+Named Entity Recognition (NER) using ELMO:
+- https://medium.com/analytics-vidhya/named-entity-recognition-using-deep-learning-elmo-embedding-bi-lstm-48295bc66cab
+
