@@ -655,6 +655,8 @@ Generative Adversarial Networks (GAN) Notebooks:
 - https://github.com/jonbruner/generative-adversarial-networks
 - https://github.com/wiseodd/generative-models
 
+## AutoEncoders
+
 ## Model Interpretation
 Explaining the Black-Box in Neural Networks:
 - https://www.analyticsvidhya.com/blog/2020/03/6-python-libraries-interpret-machine-learning-models/
@@ -749,6 +751,18 @@ Face Detection with Keras:
 Face Recognition using Keras:
 - https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
 
+
+## Optical Character Recognition (OCR)
+
+### OCR (Arabic):
+- https://github.com/HusseinYoussef/Arabic-OCR
+- https://pypi.org/project/ArabicOcr/
+- https://pythonrepo.com/repo/HusseinYoussef-Arabic-OCR-python-computer-vision
+- https://www.quora.com/How-can-I-use-Tesseract-OCR-to-extract-Arabic-language-from-image-using-python
+- https://www.arabicprogrammer.com/article/61601864637/
+- https://stackoverflow.com/questions/48358289/tensorflow-model-for-ocr-arabic
+- http://rafietarabay.blogspot.com/2019/08/arabic-ocr-in-python.html
+
 ## Remote Sensing
 Satellite Image Classification:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-satellite-photos-of-the-amazon-rainforest/
@@ -773,41 +787,57 @@ Project Ideas:
 - https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects
 - https://github.com/jtoy/awesome-tensorflow
 
-## Named Entity Recognition
-
-Named Entity Recognition (NER):
-- https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede
-- https://medium.com/analytics-vidhya/named-entity-recognition-using-deep-learning-elmo-embedding-bi-lstm-48295bc66cab
-- https://www.aitimejournal.com/@akshay.chavan/complete-tutorial-on-named-entity-recognition-ner-using-python-and-keras
-
-NER for Arabic:
-- https://github.com/ibrahim85/Arabic-Named-Entity-Recognition-1
-- https://www.researchgate.net/publication/339186251_Transfer_Learning_for_Arabic_Named_Entity_Recognition_With_Deep_Neural_Networks
-- https://awesomeopensource.com/projects/arabic-nlp/named-entity-recognition/python
-
 ## Natural Language Processing (NLP)
 
-Arabic NLP:
+### Arabic NLP:
 - https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b
 - https://towardsdatascience.com/arabic-nlp-unique-challenges-and-their-solutions-d99e8a87893d
 - https://github.com/topics/arabic-nlp
 - https://github.com/Barqawiz/Shakkala
 
-Arabic NLP Datasets:
+### Arabic NLP Datasets:
 - https://pythonrepo.com/repo/ARBML-masader-python-natural-language-processing
 
-## Optical Character Recognition (OCR)
 
-OCR (Arabic):
-- https://github.com/HusseinYoussef/Arabic-OCR
-- https://pypi.org/project/ArabicOcr/
-- https://pythonrepo.com/repo/HusseinYoussef-Arabic-OCR-python-computer-vision
-- https://www.quora.com/How-can-I-use-Tesseract-OCR-to-extract-Arabic-language-from-image-using-python
-- https://www.arabicprogrammer.com/article/61601864637/
-- https://stackoverflow.com/questions/48358289/tensorflow-model-for-ocr-arabic
-- http://rafietarabay.blogspot.com/2019/08/arabic-ocr-in-python.html
+### Named Entity Recognition
 
-## Chatbots:
+#### Named Entity Recognition (NER):
+- https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede
+- https://medium.com/analytics-vidhya/named-entity-recognition-using-deep-learning-elmo-embedding-bi-lstm-48295bc66cab
+- https://www.aitimejournal.com/@akshay.chavan/complete-tutorial-on-named-entity-recognition-ner-using-python-and-keras
+
+#### NER for Arabic:
+- https://github.com/ibrahim85/Arabic-Named-Entity-Recognition-1
+- https://www.researchgate.net/publication/339186251_Transfer_Learning_for_Arabic_Named_Entity_Recognition_With_Deep_Neural_Networks
+- https://awesomeopensource.com/projects/arabic-nlp/named-entity-recognition/python
+
+
+### Neural Network Models for NLP
+- https://jalammar.github.io/illustrated-bert/
+
+#### BiDirectional Encoder Representations for Transformers (BERT):
+- https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03
+- https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/
+- https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+- https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial
+- https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+- https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
+
+#### ELMO
+- https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/#:~:text=ELMo%20is%20a%20novel%20way,as%20well%20as%20the%20industry.
+- https://towardsdatascience.com/elmo-why-its-one-of-the-biggest-advancements-in-nlp-7911161d44be
+- https://towardsdatascience.com/elmo-contextual-language-embedding-335de2268604
+
+#### GPT
+- https://jalammar.github.io/illustrated-gpt2/
+- https://medium.com/walmartglobaltech/the-journey-of-open-ai-gpt-models-32d95b7b7fb2
+
+#### Seq2Seq
+- https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263
+- https://www.guru99.com/seq2seq-model.html
+- https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+
+### Chatbots
 - https://towardsdatascience.com/a-simple-chatbot-in-python-with-deep-learning-3e8669997758
 - https://www.analyticsvidhya.com/blog/2021/06/learn-to-develop-a-simple-chatbot-using-python-and-deep-learning/
 - https://www.kdnuggets.com/2019/08/deep-learning-nlp-creating-chatbot-keras.html
@@ -818,26 +848,26 @@ OCR (Arabic):
 
 ## Distributed Deep Learning
 
-SparkTorch:
+### SparkTorch:
 - https://github.com/dmmiller612/sparktorch
 - https://bhashkarkunal.medium.com/sparktorch-a-high-performance-distributed-deep-learning-library-step-by-step-training-of-pytorch-9b58034fcf9c
 
-Horovod:
+### Horovod:
 - https://github.com/horovod/horovod
 - https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/horovod-spark.html
 - https://horovod.readthedocs.io/en/stable/spark_include.html
 - https://horovod.readthedocs.io/en/examples/spark/keras/keras_spark_rossmann_estimator.py
 
-Elephas:
+### Elephas:
 - https://github.com/maxpumperla/elephas
 - https://towardsdatascience.com/how-to-train-your-neural-networks-in-parallel-with-keras-and-apache-spark-ea8a3f48cae6
 - https://towardsdatascience.com/distributed-deep-learning-pipelines-with-pyspark-and-keras-a3a1c22b9239
 
-TensorFlowOnSpark:
+### TensorFlowOnSpark:
 - https://github.com/yahoo/TensorFlowOnSpark
 
-Ray:
+### Ray:
 - https://medium.com/pytorch/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-fd83c98fdead). 
 
-Analytics Zoo:
+### Analytics Zoo:
 - https://github.com/intel-analytics/analytics-zoo
