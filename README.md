@@ -5,7 +5,7 @@ This repo contain all the links sent to T5C05 channel on slack.
 All the links are orginized by module for example all the links sent during module one will be grouped together.  
 
 # Index:  
-- [Module-1: Basic Python and Math Sep 12 - Sep 23](#Module-1-BPM)
+- [Module 1: Basic Python and Math Sep 12 - Sep 23](#Module-1-BPM)
 - [Module 2: Exploratory Data Analysis Sep 26 - Oct 7](#Module-2-EDA)
 - [Module 3: Regression Oct 10 - Oct 21](#Module-3-Regression)
 - [Module 4: Classification Oct 24 - Nov 4](#Module-4-Classification)
