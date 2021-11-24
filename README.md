@@ -687,4 +687,7 @@ End-to-End Deep Learning Projects in Keras:
 - https://github.com/V-Sher/house-interior-prediction
 - https://www.storytel.com/it/it/books/keras-2-x-projects-9-projects-demonstrating-faster-experimentation-of-neural-network-and-deep-learning-applications-using-keras-891395
 
-
+Tensorflow.js and Keras.js for using Deep Learning Models in the Browser:
+- https://codelabs.developers.google.com/codelabs/tensorflowjs-convert-python-savedmodel#0
+- https://pythonprogramming.net/loading-keras-model-tensorflowjs-tutorial/
+- https://www.tensorflow.org/js/tutorials/conversion/import_keras
