@@ -676,11 +676,12 @@ Model Serialization for Deep Learning (similar to pickling):
 - https://github.com/onnx/onnx
 
 ## Model Serving
-Deep Learning Model Serving:
+
+### Deep Learning Model Serving:
 - https://neptune.ai/blog/ml-model-serving-best-tools
 - https://towardsdatascience.com/serve-your-machine-learning-models-with-a-simple-python-server-5a72d005e0ae
 
-Keras Model Serving on Flask:
+### Keras Model Serving on Flask:
 - https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5da4181436a2
 - https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
 - https://curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/
@@ -691,18 +692,18 @@ Keras Model Serving on Flask:
 - https://www.youtube.com/watch?v=H73m9XvKHug
 - https://analyticsarora.com/how-to-make-a-flask-web-app-for-keras-model/
 
-Deep Learning Model Serving with TensorFlow:
+### Deep Learning Model Serving with TensorFlow:
 - https://www.tensorflow.org/serving/
 
-Deep Learning Model Serving with Pytorch:
+### Deep Learning Model Serving with Pytorch:
 - https://pytorch.org/serve/
 
-Tensorflow.js and Keras.js for using Deep Learning Models in the Browser:
+### Tensorflow.js and Keras.js for using Deep Learning Models in the Browser:
 - https://codelabs.developers.google.com/codelabs/tensorflowjs-convert-python-savedmodel#0
 - https://pythonprogramming.net/loading-keras-model-tensorflowjs-tutorial/
 - https://www.tensorflow.org/js/tutorials/conversion/import_keras
 
-Plotly:
+### Plotly:
 - https://chart-studio.plotly.com/~ali_mirza/72/training-loss-for-keras-vs-training-loss-for-pytorch/
 - https://community.plotly.com/t/deploying-keras-model-in-web-app-with-real-time-plots-using-plotly/23212
 - https://medium.com/@jefflai108/visualizing-deep-learning-with-plotly-8f2500e24b27
@@ -710,31 +711,31 @@ Plotly:
 - https://odsc.com/speakers/general-training-session-deep-learning-python-using-keras-tensorflow/
 - https://towardsdatascience.com/keras-101-a-simple-and-interpretable-neural-network-model-for-house-pricing-regression-31b1a77f05ae
 
-Tensorflow Lite:
+### Tensorflow Lite:
 - https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/chapter-08-serverless
 
-Model Serving on Kubernetes via Kubeflow:
+### Model Serving on Kubernetes via Kubeflow:
 - https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/chapter-09-kubernete
 
-Deploying a Deep Learning model using Flask and Heroku:
+### Deploying a Deep Learning model using Flask and Heroku:
 - https://towardsdatascience.com/deploying-a-deep-learning-model-on-heroku-using-flask-and-python-769431335f66
 
-Deploying a model using Flask and Heroku (not Deep Learning specific):
+### Deploying a model using Flask and Heroku (not Deep Learning specific):
 - https://towardsdatascience.com/deploy-your-python-machine-learning-models-on-heroku-in-3-steps-dc5b6aca73d9
 - https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50
 - https://medium.com/@nutanbhogendrasharma/deploy-machine-learning-model-with-flask-on-heroku-cd079b692b1d
 
 ## Computer Vision
 
-Deep Learning for Computer Vision Notebook:
+### Deep Learning for Computer Vision Notebook:
 - https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb
 
-## Object Detection
+### Object Detection
 
 Object Detection with Keras:
 - https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
 
-## Image Classification
+### Image Classification
 
 Image Classification Tutorial:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
@@ -742,19 +743,19 @@ Image Classification Tutorial:
 CNN for MNIST dataset:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
 
-## Face Detection
+### Face Detection
 
 Face Detection with Keras:
 - https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
 
-## Face Recognition
+### Face Recognition
 Face Recognition using Keras:
 - https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
 
 
-## Optical Character Recognition (OCR)
+### Optical Character Recognition (OCR)
 
-### OCR (Arabic):
+#### OCR (Arabic):
 - https://github.com/HusseinYoussef/Arabic-OCR
 - https://pypi.org/project/ArabicOcr/
 - https://pythonrepo.com/repo/HusseinYoussef-Arabic-OCR-python-computer-vision
@@ -768,14 +769,15 @@ Satellite Image Classification:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-satellite-photos-of-the-amazon-rainforest/
 
 ## Projects
-End-to-End Deep Learning Projects in Keras:
+
+### End-to-End Deep Learning Projects in Keras:
 - https://towardsdatascience.com/an-end-to-end-machine-learning-project-with-python-pandas-keras-flask-docker-and-heroku-c987018c42c7
 - https://medium.com/analytics-vidhya/end-to-end-image-classification-project-using-tensorflow-46e78298fa2f
 - https://varshitasher.medium.com/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16
 - https://github.com/V-Sher/house-interior-prediction
 - https://www.storytel.com/it/it/books/keras-2-x-projects-9-projects-demonstrating-faster-experimentation-of-neural-network-and-deep-learning-applications-using-keras-891395
 
-Project Ideas:
+### Project Ideas:
 - https://github.com/NirantK/awesome-project-ideas
 - https://github.com/21-projects-for-deep-learning
 - https://github.com/PacktPublishing/Intelligent-Projects-Using-Python
@@ -832,7 +834,13 @@ Project Ideas:
 - https://jalammar.github.io/illustrated-gpt2/
 - https://medium.com/walmartglobaltech/the-journey-of-open-ai-gpt-models-32d95b7b7fb2
 
+#### Encoder-Decoder Model:
+- https://towardsdatascience.com/what-is-an-encoder-decoder-model-86b3d57c5e1a
+- https://www.quora.com/What-is-an-Encoder-Decoder-in-Deep-Learning
+- https://machinelearningmastery.com/encoder-decoder-recurrent-neural-network-models-neural-machine-translation/
+
 #### Seq2Seq
+- https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346
 - https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263
 - https://www.guru99.com/seq2seq-model.html
 - https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
