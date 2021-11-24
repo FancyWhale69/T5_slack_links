@@ -767,6 +767,8 @@ NER for Arabic:
 
 Arabic NLP:
 - https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b
+- https://github.com/topics/arabic-nlp
+- https://github.com/Barqawiz/Shakkala
 
 ## Optical Character Recognition (OCR)
 
