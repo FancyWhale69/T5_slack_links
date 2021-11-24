@@ -657,6 +657,58 @@ Generative Adversarial Networks (GAN) Notebooks:
 
 ## AutoEncoders
 
+### AutoEncoders
+- https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798
+- https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726
+- https://www.v7labs.com/blog/autoencoders-guide
+- https://www.jeremyjordan.me/autoencoders/
+
+### AutoEncoders in Keras
+- https://blog.keras.io/building-autoencoders-in-keras.html
+
+### Variants of AutoEncoders
+- https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64#:~:text=A%20stacked%20autoencoder%20is%20a,of%20the%20successive%20hidden%20layer.&text=The%20learned%20data%20from%20the,until%20the%20training%20is%20completed.
+
+### Variational AutoEncoders
+- https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
+- https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
+- https://www.jeremyjordan.me/variational-autoencoders/
+- https://www.kdnuggets.com/2021/10/introduction-autoencoder-variational-autoencoder-vae.html
+
+### Stacked AutoEncoders
+- https://towardsdatascience.com/stacked-autoencoders-f0a4391ae282
+- https://www.quora.com/What-is-the-detailed-explanation-of-Stacked-Denoising-Autoencoder
+
+## Recurrent Neural Networks (RNN)
+- https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
+- https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7
+- https://builtin.com/data-science/recurrent-neural-networks-and-lstm#:~:text=Recurrent%20neural%20networks%20(RNN)%20are%20a%20class%20of%20neural%20networks,that%20other%20algorithms%20can't.
+- https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
+
+### Mathematics behind RNN
+- https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/
+- https://vidishajitani.medium.com/recurrent-neural-network-maths-69214e4d69e1
+- https://towardsdatascience.com/under-the-hood-of-neural-networks-part-2-recurrent-af091247ba78
+
+### Long Short-Term Memory (LSTM):
+- https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/#:~:text=Long%20Short%2DTerm%20Memory%20(LSTM,complex%20area%20of%20deep%20learning.
+- https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+- https://www.analyticsvidhya.com/blog/2021/03/introduction-to-long-short-term-memory-lstm/
+- https://www.geeksforgeeks.org/long-short-term-memory-networks-explanation/
+
+#### Mathematics behind LSTM
+- https://medium.com/@leenabora1/simplified-math-behind-complex-lstm-equations-66cff0d52d78
+- https://medium.com/deep-math-machine-learning-ai/chapter-10-1-deepnlp-lstm-long-short-term-memory-networks-with-math-21477f8e4235
+- https://towardsdatascience.com/lstm-gradients-b3996e6a0296
+- https://www.quora.com/How-do-I-understand-the-architecture-and-maths-of-an-LSTM-neural-network
+- https://medium.datadriveninvestor.com/long-short-term-memory-maths-part-1-d99b3c3b09d0
+- https://medium.datadriveninvestor.com/long-short-term-memory-maths-part-2-e938b1b42f74
+
+### Gated Recurrent Units (GRU)
+- https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
+- https://www.analyticsvidhya.com/blog/2021/03/introduction-to-gated-recurrent-unit-gru/
+
 ## Model Interpretation
 Explaining the Black-Box in Neural Networks:
 - https://www.analyticsvidhya.com/blog/2020/03/6-python-libraries-interpret-machine-learning-models/
@@ -731,31 +783,37 @@ Model Serialization for Deep Learning (similar to pickling):
 - https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb
 
 ### Object Detection
-
-Object Detection with Keras:
+#### Object Detection with Keras:
 - https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
 
 ### Image Classification
-
-Image Classification Tutorial:
+#### Image Classification Tutorial:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
 
-CNN for MNIST dataset:
+#### CNN for MNIST dataset:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
 
 ### Face Detection
-
-Face Detection with Keras:
+#### Face Detection with Keras:
 - https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
 
 ### Face Recognition
-Face Recognition using Keras:
+#### Face Recognition using Keras:
 - https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
 
+### Solving CAPTCHAs using Deep Learning
+- https://towardsdatascience.com/deep-learning-drops-breaking-captcha-20c8fc96e6a3
+- https://towardsdatascience.com/solving-captchas-machine-learning-vs-online-services-3596ad6f0137
+- https://www.pyimagesearch.com/2021/07/14/breaking-captchas-with-deep-learning-keras-and-tensorflow/
+- https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710
 
 ### Optical Character Recognition (OCR)
+- https://nanonets.com/blog/deep-learning-ocr/
+- https://nanonets.com/blog/attention-ocr-for-text-recogntion/
+- https://towardsdatascience.com/how-did-i-train-an-ocr-model-using-keras-and-tensorflow-7e10b241c22b
+- https://towardsdatascience.com/get-started-with-deep-learning-ocr-136ac645db1d
 
-#### OCR (Arabic):
+#### OCR (Arabic)
 - https://github.com/HusseinYoussef/Arabic-OCR
 - https://pypi.org/project/ArabicOcr/
 - https://pythonrepo.com/repo/HusseinYoussef-Arabic-OCR-python-computer-vision
@@ -800,24 +858,49 @@ Satellite Image Classification:
 ### Arabic NLP Datasets:
 - https://pythonrepo.com/repo/ARBML-masader-python-natural-language-processing
 
+### Word Embeddings
+- https://machinelearningmastery.com/what-are-word-embeddings/#:~:text=A%20word%20embedding%20is%20a,meaning%20have%20a%20similar%20representation.&text=Each%20word%20is%20mapped%20to,the%20field%20of%20deep%20learning.
+- https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795
+- https://neptune.ai/blog/word-embeddings-guide
+- https://www.mygreatlearning.com/blog/word-embedding/
+- https://medium.com/analytics-vidhya/word-embeddings-explained-62c046f7c79e
+- https://medium.com/@b.terryjack/nlp-everything-about-word-embeddings-9ea21f51ccfe
 
-### Named Entity Recognition
+#### Word2Vec
+- https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa
+- https://jalammar.github.io/illustrated-word2vec/
+- https://wiki.pathmind.com/word2vec#:~:text=Word2vec%20is%20an%20algorithm%20used,a%20lookup%20table%20or%20dictionary.
+- https://towardsdatascience.com/word2vec-explained-49c52b4ccb71
 
-#### Named Entity Recognition (NER):
+#### GloVe
+- https://towardsdatascience.com/light-on-math-ml-intuitive-guide-to-understanding-glove-embeddings-b13b4f19c010
+- https://nlp.stanford.edu/projects/glove/
+- https://becominghuman.ai/mathematical-introduction-to-glove-word-embedding-60f24154e54c
+- https://d2l.ai/chapter_natural-language-processing-pretraining/glove.html
+- 
+### Named Entity Recognition (NER)
+#### NER
 - https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede
 - https://medium.com/analytics-vidhya/named-entity-recognition-using-deep-learning-elmo-embedding-bi-lstm-48295bc66cab
 - https://www.aitimejournal.com/@akshay.chavan/complete-tutorial-on-named-entity-recognition-ner-using-python-and-keras
 
-#### NER for Arabic:
+#### NER for Arabic Text
 - https://github.com/ibrahim85/Arabic-Named-Entity-Recognition-1
 - https://www.researchgate.net/publication/339186251_Transfer_Learning_for_Arabic_Named_Entity_Recognition_With_Deep_Neural_Networks
 - https://awesomeopensource.com/projects/arabic-nlp/named-entity-recognition/python
 
-
 ### Neural Network Models for NLP
 - https://jalammar.github.io/illustrated-bert/
+- https://daleonai.com/transformers-explained
 
-#### BiDirectional Encoder Representations for Transformers (BERT):
+#### Transformers
+- https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
+- https://jalammar.github.io/illustrated-transformer/
+- https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0
+- https://machinelearningmastery.com/the-transformer-model/
+- https://neptune.ai/blog/comprehensive-guide-to-transformers
+
+#### BiDirectional Encoder Representations for Transformers (BERT)
 - https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03
 - https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/
 - https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
@@ -825,16 +908,16 @@ Satellite Image Classification:
 - https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
 - https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
 
-#### ELMO
+#### Embeddings from Language Models (ELMO)
 - https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/#:~:text=ELMo%20is%20a%20novel%20way,as%20well%20as%20the%20industry.
 - https://towardsdatascience.com/elmo-why-its-one-of-the-biggest-advancements-in-nlp-7911161d44be
 - https://towardsdatascience.com/elmo-contextual-language-embedding-335de2268604
 
-#### GPT
+#### Generative Pre-Trained Transformers (GPT)
 - https://jalammar.github.io/illustrated-gpt2/
 - https://medium.com/walmartglobaltech/the-journey-of-open-ai-gpt-models-32d95b7b7fb2
 
-#### Encoder-Decoder Model:
+#### Encoder-Decoder Model
 - https://towardsdatascience.com/what-is-an-encoder-decoder-model-86b3d57c5e1a
 - https://www.quora.com/What-is-an-Encoder-Decoder-in-Deep-Learning
 - https://machinelearningmastery.com/encoder-decoder-recurrent-neural-network-models-neural-machine-translation/
@@ -856,26 +939,26 @@ Satellite Image Classification:
 
 ## Distributed Deep Learning
 
-### SparkTorch:
+### SparkTorch
 - https://github.com/dmmiller612/sparktorch
 - https://bhashkarkunal.medium.com/sparktorch-a-high-performance-distributed-deep-learning-library-step-by-step-training-of-pytorch-9b58034fcf9c
 
-### Horovod:
+### Horovod
 - https://github.com/horovod/horovod
 - https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/horovod-spark.html
 - https://horovod.readthedocs.io/en/stable/spark_include.html
 - https://horovod.readthedocs.io/en/examples/spark/keras/keras_spark_rossmann_estimator.py
 
-### Elephas:
+### Elephas
 - https://github.com/maxpumperla/elephas
 - https://towardsdatascience.com/how-to-train-your-neural-networks-in-parallel-with-keras-and-apache-spark-ea8a3f48cae6
 - https://towardsdatascience.com/distributed-deep-learning-pipelines-with-pyspark-and-keras-a3a1c22b9239
 
-### TensorFlowOnSpark:
+### TensorFlowOnSpark
 - https://github.com/yahoo/TensorFlowOnSpark
 
-### Ray:
+### Ray
 - https://medium.com/pytorch/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-fd83c98fdead). 
 
-### Analytics Zoo:
+### Analytics Zoo
 - https://github.com/intel-analytics/analytics-zoo
