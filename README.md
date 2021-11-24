@@ -718,3 +718,27 @@ OCR (Arabic):
 - https://www.arabicprogrammer.com/article/61601864637/
 - https://stackoverflow.com/questions/48358289/tensorflow-model-for-ocr-arabic
 - http://rafietarabay.blogspot.com/2019/08/arabic-ocr-in-python.html
+
+Distributed Deep Learning (SparkTorch):
+- https://github.com/dmmiller612/sparktorch
+- https://bhashkarkunal.medium.com/sparktorch-a-high-performance-distributed-deep-learning-library-step-by-step-training-of-pytorch-9b58034fcf9c
+
+Distributed Deep Learning (Horovod):
+- https://github.com/horovod/horovod
+- https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/horovod-spark.html
+- https://horovod.readthedocs.io/en/stable/spark_include.html
+- https://horovod.readthedocs.io/en/examples/spark/keras/keras_spark_rossmann_estimator.py
+
+Distributed Deep Learning (Elephas):
+- https://github.com/maxpumperla/elephas
+- https://towardsdatascience.com/how-to-train-your-neural-networks-in-parallel-with-keras-and-apache-spark-ea8a3f48cae6
+- https://towardsdatascience.com/distributed-deep-learning-pipelines-with-pyspark-and-keras-a3a1c22b9239
+
+Distributed Deep Learning (TensorFlowOnSpark):
+- https://github.com/yahoo/TensorFlowOnSpark
+
+Distributed Deep Learning (Ray):
+- https://medium.com/pytorch/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-fd83c98fdead). 
+
+Distributed Deep Learning (Analytics Zoo):
+- https://github.com/intel-analytics/analytics-zoo
