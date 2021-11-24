@@ -1,5 +1,5 @@
-# T5_slack_links:  
-This repo contain all the links sent to T5C05 channel on slack.  
+# T5C05 Slack links:  
+This repo contain all the links sent to T5C05 channel on Slack.  
 
 # How is it organized?  
 All the links are orginized by module for example all the links sent during module one will be grouped together.  
@@ -708,6 +708,12 @@ Plotly:
 - https://odsc.com/speakers/general-training-session-deep-learning-python-using-keras-tensorflow/
 - https://towardsdatascience.com/keras-101-a-simple-and-interpretable-neural-network-model-for-house-pricing-regression-31b1a77f05ae
 
+Tensorflow Lite:
+- https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/chapter-08-serverless
+
+Model Serving on Kubernetes via Kubeflow:
+- https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/chapter-09-kubernete
+
 ## Computer Vision
 
 Deep Learning for Computer Vision Notebook:
@@ -750,7 +756,14 @@ End-to-End Deep Learning Projects in Keras:
 Project Ideas:
 - https://github.com/NirantK/awesome-project-ideas
 - https://github.com/21-projects-for-deep-learning
+- https://github.com/PacktPublishing/Intelligent-Projects-Using-Python
 - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/blob/main/README.md
+- https://github.com/goodrahstar/Python-Deep-Learning-Projects
+- https://github.com/PacktPublishing/Python-Deep-Learning-Projects
+- https://github.com/PacktPublishing/TensorFlow-Deep-Learning-Projects
+- https://github.com/Apress/Deep-Learning-Projects-Using-TensorFlow-2
+- https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects
+- https://github.com/jtoy/awesome-tensorflow
 
 ## Named Entity Recognition
 
