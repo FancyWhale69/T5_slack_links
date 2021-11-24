@@ -691,3 +691,6 @@ Tensorflow.js and Keras.js for using Deep Learning Models in the Browser:
 - https://codelabs.developers.google.com/codelabs/tensorflowjs-convert-python-savedmodel#0
 - https://pythonprogramming.net/loading-keras-model-tensorflowjs-tutorial/
 - https://www.tensorflow.org/js/tutorials/conversion/import_keras
+
+Project Ideas:
+- https://github.com/NirantK/awesome-project-ideas
