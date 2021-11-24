@@ -714,6 +714,11 @@ Tensorflow Lite:
 Model Serving on Kubernetes via Kubeflow:
 - https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/chapter-09-kubernete
 
+Deploying a model using Flask and Heroku (not Deep Learning specific):
+- https://towardsdatascience.com/deploy-your-python-machine-learning-models-on-heroku-in-3-steps-dc5b6aca73d9
+- https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50
+- https://medium.com/@nutanbhogendrasharma/deploy-machine-learning-model-with-flask-on-heroku-cd079b692b1d
+
 ## Computer Vision
 
 Deep Learning for Computer Vision Notebook:
