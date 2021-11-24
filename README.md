@@ -510,7 +510,7 @@ Word Embeddings:
 # Module 6: Deep Learning
 
 ## Feed-Forward Neural Networks
-Activation Functions
+### Activation Functions
 - https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 - https://www.v7labs.com/blog/neural-networks-activation-functions
 - https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0
@@ -519,23 +519,23 @@ Activation Functions
 - https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0
 - https://himanshuxd.medium.com/activation-functions-sigmoid-relu-leaky-relu-and-softmax-basics-for-neural-networks-and-deep-8d9c70eed91e
 
-Hidden Layers
+### Hidden Layers
 - https://medium.com/fintechexplained/what-are-hidden-layers-4f54f7328263
 - https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute
 - https://www.quora.com/What-is-the-role-of-a-hidden-layer
 
-Vanishing Gradient
+### Vanishing Gradient
 - https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/
 - https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484
 - https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/
  
-Neural Network Optimization:
+### Neural Network Optimization:
 - https://towardsdatascience.com/overview-of-various-optimizers-in-neural-networks-17c1be2df6d5
 - https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
 - https://www.deeplearning.ai/ai-notes/optimization/
 - https://medium.com/nerd-for-tech/optimizers-for-neural-networks-a74cb4152307
 
-Backprogagation:
+### Backprogagation:
 - https://hmkcode.com/ai/backpropagation-step-by-step/
 - https://hmkcode.com/netflow/
 - http://experiments.mostafa.io/public/ffbpann/
@@ -544,53 +544,65 @@ Backprogagation:
 - https://medium.com/swlh/backpropagation-step-by-step-13f2b6c0b414
 - https://towardsdatascience.com/the-maths-behind-back-propagation-cf6714736abf
 
-Backpropagation and Gradient Descent:
+### Backpropagation and Gradient Descent:
 - https://towardsdatascience.com/a-step-by-step-implementation-of-gradient-descent-and-backpropagation-d58bda486110
 
-Weights Initialization:
+### Weights Initialization:
 - https://medium.com/@safrin1128/weight-initialization-in-neural-network-inspired-by-andrew-ng-e0066dc4a566#:~:text=Zero%20initialization%3A&text=If%20all%20the%20weights%20are,will%20produce%20a%20poor%20result.
 
-Tips for Training Neural Networks:
+### Batch Normalization
+- https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/
+- https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338
+
+#### Batch Normalization in Keras
+- https://www.tensorflow.org/api_docs/python/tf/keras/layers/BatchNormalization
+
+### Drop-Out
+- https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/
+- https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5
+- https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
+- https://towardsdatascience.com/machine-learning-part-20-dropout-keras-layers-explained-8c9f6dc4c9ab
+- https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275
+
+### Tips for Training Neural Networks:
 - https://karpathy.github.io/2019/04/25/recipe/
 
 ## Deep Learning Packages
 
-Callbacks in Keras:
+### Callbacks in Keras:
 - https://keras.io/api/callbacks/
 - https://www.kdnuggets.com/2019/08/keras-callbacks-explained-three-minutes.html
 
-TensorBoard in Keras:
+### TensorBoard in Keras:
 - https://keras.io/api/callbacks/tensorboard
 - https://www.tensorflow.org/tensorboard/scalars_and_keras
 - https://www.machinecurve.com/index.php/2019/11/13/how-to-use-tensorboard-with-keras/
 - https://neptune.ai/blog/tensorboard-tutorial
 
-Pytorch Introduction
+### Pytorch Introduction
 - https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 - https://cs230.stanford.edu/blog/pytorch/
 - https://theblog.github.io/post/from-tensorflow-to-pytorch/
 - https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html
  
-Ames Housing Dataset using Pytorch (we used Keras in class):
+### Ames Housing Dataset using Pytorch (we used Keras in class):
 - https://www.kaggle.com/achinta/pytorch-for-house-pricing
 - https://www.kaggle.com/jongbeompark/house-prices-with-pytorch
 - https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/chapter_multilayer-perceptrons/kaggle-house-price.ipynb
 
-Keras vs Pytorch Notebook:
+### Keras vs Pytorch Notebook:
 - https://deepsense.ai/keras-or-pytorch/
 - https://www.freecodecamp.org/news/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02/
 
-Tensorflow vs Pytorch:
+### Tensorflow vs Pytorch:
 - https://towardsdatascience.com/tensorflow-or-pytorch-146f5397278a
 
-## Convolutional Neural Networks
-
-Convolutional Neural Networks:
+## Convolutional Neural Networks (CNN)
 - https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network
 - https://poloclub.github.io/cnn-explainer/ (Courtesy of Ahmed)
 - https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/
 
-CNN Slides used in class:
+### CNN Slides used in class
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-what-are-convolutional-neural-networks
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-step-1-convolution-operation
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-step-1b-relu-layer
@@ -599,47 +611,45 @@ CNN Slides used in class:
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-step-4-full-connection
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-summary
 
-Filters and Feature Maps Visualization:
+### Filters and Feature Maps Visualization:
 - https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/
 
-Innovations in CNN for image classification:
+### Innovations in CNN for image classification:
 - https://machinelearningmastery.com/review-of-architectural-innovations-for-convolutional-neural-networks-for-image-classification/
 
-Data Augmentation for CNN:
+### Data Augmentation for CNN:
 - https://machinelearningmastery.com/best-practices-for-preparing-and-augmenting-image-data-for-convolutional-neural-networks/
 - https://www.tensorflow.org/tutorials/images/data_augmentation
 - https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
 - https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/
 - https://medium.com/featurepreneur/image-data-augmentation-using-keras-imagedatagenerator-1cee60255ea8
  
-Image Data Preprocessing in Keras:
+### Image Data Preprocessing in Keras:
 - https://keras.io/api/preprocessing/image/
 - https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/
  
-Loading and Saving Images with Keras:
+### Loading and Saving Images with Keras:
 - https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/
 - https://machinelearningmastery.com/how-to-load-and-manipulate-images-for-deep-learning-in-python-with-pil-pillow/
 
-Padding in CNN:
+### Padding in CNN:
 - https://analyticsindiamag.com/guide-to-different-padding-methods-for-cnn-models/
 
-Padding and stride in CNN:
+### Padding and stride in CNN:
 - https://machinelearningmastery.com/padding-and-stride-for-convolutional-neural-networks/
 
-Convolutional Layer in CNN:
+### Convolutional Layer in CNN:
 - https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/
 
-Pooling Layer in CNN:
+### Pooling Layer in CNN:
 - https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
 
 ## Notebooks
 
-Deep Learning Notebooks by Francois Chollet:
+### Deep Learning Notebooks by Francois Chollet:
 - https://github.com/fchollet/deep-learning-with-python-notebooks
 
-## Generative Adversarial Networks
-
-Generative Adversarial Networks (GAN):
+## Generative Adversarial Networks (GAN)
 - https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
 - https://developers.google.com/machine-learning/gan
 - https://towardsdatascience.com/a-basic-intro-to-gans-generative-adversarial-networks-c62acbcefff3
@@ -650,14 +660,12 @@ Generative Adversarial Networks (GAN):
 - https://theaisummer.com/gan-computer-vision/
 - https://zsdonghao.github.io/courses/deep-learning/material/Ch8-1%20Introduction%20of%20GAN%20(1h).pdf
 
-Generative Adversarial Networks (GAN) Notebooks:
+### Generative Adversarial Networks (GAN) Notebooks:
 - https://colab.research.google.com/github/smartgeometry-ucl/dl4g/blob/master/gan.ipynb
 - https://github.com/jonbruner/generative-adversarial-networks
 - https://github.com/wiseodd/generative-models
 
 ## AutoEncoders
-
-### AutoEncoders
 - https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798
 - https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726
 - https://www.v7labs.com/blog/autoencoders-guide
@@ -720,15 +728,14 @@ Explaining the Black-Box in Neural Networks:
 - https://towardsdatascience.com/interpretability-of-deep-learning-models-9f52e54d72ab
 
 ## Automatic Model Selection
-AutoKeras (Automated Keras):
+### AutoKeras (Automated Keras):
 - https://github.com/keras-team/autokeras
 
-## Model Serialization
-Model Serialization for Deep Learning (similar to pickling):
+## Model Serialization 
+### Model Serialization for Deep Learning (similar to pickling):
 - https://github.com/onnx/onnx
 
 ## Model Serving
-
 ### Deep Learning Model Serving:
 - https://neptune.ai/blog/ml-model-serving-best-tools
 - https://towardsdatascience.com/serve-your-machine-learning-models-with-a-simple-python-server-5a72d005e0ae
