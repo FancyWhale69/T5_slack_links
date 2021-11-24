@@ -699,7 +699,22 @@ Project Ideas:
 
 Named Entity Recognition (NER):
 - https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede
-
-Named Entity Recognition (NER) using ELMO:
 - https://medium.com/analytics-vidhya/named-entity-recognition-using-deep-learning-elmo-embedding-bi-lstm-48295bc66cab
+- https://www.aitimejournal.com/@akshay.chavan/complete-tutorial-on-named-entity-recognition-ner-using-python-and-keras
 
+NER for Arabic:
+- https://github.com/ibrahim85/Arabic-Named-Entity-Recognition-1
+- https://www.researchgate.net/publication/339186251_Transfer_Learning_for_Arabic_Named_Entity_Recognition_With_Deep_Neural_Networks
+- https://awesomeopensource.com/projects/arabic-nlp/named-entity-recognition/python
+
+Arabic NLP:
+- https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b
+
+OCR (Arabic):
+- https://github.com/HusseinYoussef/Arabic-OCR
+- https://pypi.org/project/ArabicOcr/
+- https://pythonrepo.com/repo/HusseinYoussef-Arabic-OCR-python-computer-vision
+- https://www.quora.com/How-can-I-use-Tesseract-OCR-to-extract-Arabic-language-from-image-using-python
+- https://www.arabicprogrammer.com/article/61601864637/
+- https://stackoverflow.com/questions/48358289/tensorflow-model-for-ocr-arabic
+- http://rafietarabay.blogspot.com/2019/08/arabic-ocr-in-python.html
