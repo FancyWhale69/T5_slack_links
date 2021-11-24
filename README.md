@@ -735,6 +735,7 @@ Face Detection with Keras:
 Face Recognition using Keras:
 - https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
 
+## Remote Sensing
 Satellite Image Classification:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-satellite-photos-of-the-amazon-rainforest/
 
@@ -767,8 +768,12 @@ NER for Arabic:
 
 Arabic NLP:
 - https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b
+- https://towardsdatascience.com/arabic-nlp-unique-challenges-and-their-solutions-d99e8a87893d
 - https://github.com/topics/arabic-nlp
 - https://github.com/Barqawiz/Shakkala
+
+Arabic NLP Datasets:
+- https://pythonrepo.com/repo/ARBML-masader-python-natural-language-processing
 
 ## Optical Character Recognition (OCR)
 
