@@ -714,6 +714,9 @@ Tensorflow Lite:
 Model Serving on Kubernetes via Kubeflow:
 - https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/chapter-09-kubernete
 
+Deploying a Deep Learning model using Flask and Heroku:
+- https://towardsdatascience.com/deploying-a-deep-learning-model-on-heroku-using-flask-and-python-769431335f66
+
 Deploying a model using Flask and Heroku (not Deep Learning specific):
 - https://towardsdatascience.com/deploy-your-python-machine-learning-models-on-heroku-in-3-steps-dc5b6aca73d9
 - https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50
