@@ -509,6 +509,7 @@ Word Embeddings:
 
 # Module 6: Deep Learning
 
+## Feed-Forward Neural Networks
 Activation Functions
 - https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 - https://www.v7labs.com/blog/neural-networks-activation-functions
@@ -551,6 +552,8 @@ Weights Initialization:
 Tips for Training Neural Networks:
 - https://karpathy.github.io/2019/04/25/recipe/
 
+## Deep Learning Packages
+
 Callbacks in Keras:
 - https://keras.io/api/callbacks/
 - https://www.kdnuggets.com/2019/08/keras-callbacks-explained-three-minutes.html
@@ -578,6 +581,8 @@ Keras vs Pytorch Notebook:
 
 Tensorflow vs Pytorch:
 - https://towardsdatascience.com/tensorflow-or-pytorch-146f5397278a
+
+## Convolutional Neural Networks
 
 Convolutional Neural Networks:
 - https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network
@@ -626,14 +631,30 @@ Convolutional Layer in CNN:
 Pooling Layer in CNN:
 - https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
 
+## Notebooks
+
 Deep Learning Notebooks by Francois Chollet:
 - https://github.com/fchollet/deep-learning-with-python-notebooks
+
+## Generative Adversarial Networks
+
+Generative Adversarial Networks (GAN):
+- https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
+- https://developers.google.com/machine-learning/gan
+- https://towardsdatascience.com/a-basic-intro-to-gans-generative-adversarial-networks-c62acbcefff3
+- https://stackabuse.com/introduction-to-gans-with-python-and-tensorflow/
+- https://towardsdatascience.com/generative-adversarial-networks-in-python-73d3972823d3
+- https://wiki.pathmind.com/generative-adversarial-network-gan
+- https://deeplizard.com/lesson/gaa1ilrazd
+- https://theaisummer.com/gan-computer-vision/
+- https://zsdonghao.github.io/courses/deep-learning/material/Ch8-1%20Introduction%20of%20GAN%20(1h).pdf
 
 Generative Adversarial Networks (GAN) Notebooks:
 - https://colab.research.google.com/github/smartgeometry-ucl/dl4g/blob/master/gan.ipynb
 - https://github.com/jonbruner/generative-adversarial-networks
 - https://github.com/wiseodd/generative-models
 
+## Model Interpretation
 Explaining the Black-Box in Neural Networks:
 - https://www.analyticsvidhya.com/blog/2020/03/6-python-libraries-interpret-machine-learning-models/
 - https://towardsdatascience.com/6-top-python-packages-for-machine-learning-interpretability-f9fec3c2d1e9
@@ -643,15 +664,29 @@ Explaining the Black-Box in Neural Networks:
 - https://towardsdatascience.com/interpretable-neural-networks-45ac8aa91411
 - https://towardsdatascience.com/interpretability-of-deep-learning-models-9f52e54d72ab
 
+## Automatic Model Selection
 AutoKeras (Automated Keras):
 - https://github.com/keras-team/autokeras
 
+## Model Serialization
 Model Serialization for Deep Learning (similar to pickling):
 - https://github.com/onnx/onnx
 
+## Model Serving
 Deep Learning Model Serving:
 - https://neptune.ai/blog/ml-model-serving-best-tools
 - https://towardsdatascience.com/serve-your-machine-learning-models-with-a-simple-python-server-5a72d005e0ae
+
+Keras Model Serving on Flask:
+- https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5da4181436a2
+- https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
+- https://curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/
+- https://medium.datadriveninvestor.com/tensorflow-and-keras-model-deployment-using-flask-in-google-colab-b8e49d1d4af0
+- https://medium.datadriveninvestor.com/flask-api-for-keras-87c06da174e8
+- https://towardsdatascience.com/deploying-keras-models-using-tensorflow-serving-and-flask-508ba00f1037
+- https://deeplizard.com/learn/video/XgzxH6G-ufA
+- https://www.youtube.com/watch?v=H73m9XvKHug
+- https://analyticsarora.com/how-to-make-a-flask-web-app-for-keras-model/
 
 Deep Learning Model Serving with TensorFlow:
 - https://www.tensorflow.org/serving/
@@ -659,27 +694,42 @@ Deep Learning Model Serving with TensorFlow:
 Deep Learning Model Serving with Pytorch:
 - https://pytorch.org/serve/
 
+Tensorflow.js and Keras.js for using Deep Learning Models in the Browser:
+- https://codelabs.developers.google.com/codelabs/tensorflowjs-convert-python-savedmodel#0
+- https://pythonprogramming.net/loading-keras-model-tensorflowjs-tutorial/
+- https://www.tensorflow.org/js/tutorials/conversion/import_keras
+
+## Computer Vision
+
 Deep Learning for Computer Vision Notebook:
 - https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb
+
+## Object Detection
 
 Object Detection with Keras:
 - https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
 
+## Image Classification
+
 Image Classification Tutorial:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
-
-Face Detection with Keras:
-- https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
-
-Face Recognition using Keras:
-- https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
 
 CNN for MNIST dataset:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
 
+## Face Detection
+
+Face Detection with Keras:
+- https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
+
+## Face Recognition
+Face Recognition using Keras:
+- https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
+
 Satellite Image Classification:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-satellite-photos-of-the-amazon-rainforest/
 
+## Projects
 End-to-End Deep Learning Projects in Keras:
 - https://towardsdatascience.com/an-end-to-end-machine-learning-project-with-python-pandas-keras-flask-docker-and-heroku-c987018c42c7
 - https://medium.com/analytics-vidhya/end-to-end-image-classification-project-using-tensorflow-46e78298fa2f
@@ -687,15 +737,12 @@ End-to-End Deep Learning Projects in Keras:
 - https://github.com/V-Sher/house-interior-prediction
 - https://www.storytel.com/it/it/books/keras-2-x-projects-9-projects-demonstrating-faster-experimentation-of-neural-network-and-deep-learning-applications-using-keras-891395
 
-Tensorflow.js and Keras.js for using Deep Learning Models in the Browser:
-- https://codelabs.developers.google.com/codelabs/tensorflowjs-convert-python-savedmodel#0
-- https://pythonprogramming.net/loading-keras-model-tensorflowjs-tutorial/
-- https://www.tensorflow.org/js/tutorials/conversion/import_keras
-
 Project Ideas:
 - https://github.com/NirantK/awesome-project-ideas
 - https://github.com/21-projects-for-deep-learning
 - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/blob/main/README.md
+
+## Named Entity Recognition
 
 Named Entity Recognition (NER):
 - https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede
@@ -707,8 +754,12 @@ NER for Arabic:
 - https://www.researchgate.net/publication/339186251_Transfer_Learning_for_Arabic_Named_Entity_Recognition_With_Deep_Neural_Networks
 - https://awesomeopensource.com/projects/arabic-nlp/named-entity-recognition/python
 
+## Natural Language Processing (NLP)
+
 Arabic NLP:
 - https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b
+
+## Optical Character Recognition (OCR)
 
 OCR (Arabic):
 - https://github.com/HusseinYoussef/Arabic-OCR
@@ -718,6 +769,8 @@ OCR (Arabic):
 - https://www.arabicprogrammer.com/article/61601864637/
 - https://stackoverflow.com/questions/48358289/tensorflow-model-for-ocr-arabic
 - http://rafietarabay.blogspot.com/2019/08/arabic-ocr-in-python.html
+
+## Distributed Deep Learning
 
 Distributed Deep Learning (SparkTorch):
 - https://github.com/dmmiller612/sparktorch
