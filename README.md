@@ -807,6 +807,13 @@ OCR (Arabic):
 - https://stackoverflow.com/questions/48358289/tensorflow-model-for-ocr-arabic
 - http://rafietarabay.blogspot.com/2019/08/arabic-ocr-in-python.html
 
+## Chatbots:
+- https://towardsdatascience.com/a-simple-chatbot-in-python-with-deep-learning-3e8669997758
+- https://www.analyticsvidhya.com/blog/2021/06/learn-to-develop-a-simple-chatbot-using-python-and-deep-learning/
+- https://www.kdnuggets.com/2019/08/deep-learning-nlp-creating-chatbot-keras.html
+- https://python.plainenglish.io/create-a-deep-learning-chatbot-with-python-and-flask-d75396a4382a
+- https://data-flair.training/blogs/python-chatbot-project/
+
 ## Distributed Deep Learning
 
 SparkTorch:
