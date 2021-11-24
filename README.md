@@ -813,6 +813,8 @@ OCR (Arabic):
 - https://www.kdnuggets.com/2019/08/deep-learning-nlp-creating-chatbot-keras.html
 - https://python.plainenglish.io/create-a-deep-learning-chatbot-with-python-and-flask-d75396a4382a
 - https://data-flair.training/blogs/python-chatbot-project/
+- https://pythonprogramming.net/chatbot-deep-learning-python-tensorflow/
+- https://github.com/tatiblockchain/python-deep-learning-chatbot
 
 ## Distributed Deep Learning
 
