@@ -528,12 +528,20 @@ Word Embeddings:
 - https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/
 - https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484
 - https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/
- 
+
+### Exploding Gradient
+- https://machinelearningmastery.com/exploding-gradients-in-neural-networks/#:~:text=Exploding%20gradients%20are%20a%20problem,learn%20from%20your%20training%20data.
+- 
 ### Neural Network Optimization:
 - https://towardsdatascience.com/overview-of-various-optimizers-in-neural-networks-17c1be2df6d5
 - https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
 - https://www.deeplearning.ai/ai-notes/optimization/
 - https://medium.com/nerd-for-tech/optimizers-for-neural-networks-a74cb4152307
+
+### Loss Function:
+- https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
+- https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/
+
 
 ### Backprogagation:
 - https://hmkcode.com/ai/backpropagation-step-by-step/
@@ -553,6 +561,7 @@ Word Embeddings:
 ### Batch Normalization
 - https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/
 - https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338
+- https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/
 
 #### Batch Normalization in Keras
 - https://www.tensorflow.org/api_docs/python/tf/keras/layers/BatchNormalization
@@ -563,6 +572,12 @@ Word Embeddings:
 - https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
 - https://towardsdatascience.com/machine-learning-part-20-dropout-keras-layers-explained-8c9f6dc4c9ab
 - https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275
+
+### Early Stopping:
+- https://machinelearningmastery.com/early-stopping-to-avoid-overtraining-neural-network-models/
+
+### Using Learning Curves
+- https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/
 
 ### Tips for Training Neural Networks:
 - https://karpathy.github.io/2019/04/25/recipe/
@@ -934,6 +949,7 @@ Satellite Image Classification:
 - https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263
 - https://www.guru99.com/seq2seq-model.html
 - https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+- https://machinelearningmastery.com/develop-encoder-decoder-model-sequence-sequence-prediction-keras/
 
 ### Chatbots
 - https://towardsdatascience.com/a-simple-chatbot-in-python-with-deep-learning-3e8669997758
