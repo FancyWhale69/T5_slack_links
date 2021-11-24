@@ -699,6 +699,14 @@ Tensorflow.js and Keras.js for using Deep Learning Models in the Browser:
 - https://pythonprogramming.net/loading-keras-model-tensorflowjs-tutorial/
 - https://www.tensorflow.org/js/tutorials/conversion/import_keras
 
+Plotly:
+- https://chart-studio.plotly.com/~ali_mirza/72/training-loss-for-keras-vs-training-loss-for-pytorch/
+- https://community.plotly.com/t/deploying-keras-model-in-web-app-with-real-time-plots-using-plotly/23212
+- https://medium.com/@jefflai108/visualizing-deep-learning-with-plotly-8f2500e24b27
+- https://www.kaggle.com/paultimothymooney/identify-sentence-author-keras-plotly
+- https://odsc.com/speakers/general-training-session-deep-learning-python-using-keras-tensorflow/
+- https://towardsdatascience.com/keras-101-a-simple-and-interpretable-neural-network-model-for-house-pricing-regression-31b1a77f05ae
+
 ## Computer Vision
 
 Deep Learning for Computer Vision Notebook:
@@ -772,26 +780,26 @@ OCR (Arabic):
 
 ## Distributed Deep Learning
 
-Distributed Deep Learning (SparkTorch):
+SparkTorch:
 - https://github.com/dmmiller612/sparktorch
 - https://bhashkarkunal.medium.com/sparktorch-a-high-performance-distributed-deep-learning-library-step-by-step-training-of-pytorch-9b58034fcf9c
 
-Distributed Deep Learning (Horovod):
+Horovod:
 - https://github.com/horovod/horovod
 - https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/horovod-spark.html
 - https://horovod.readthedocs.io/en/stable/spark_include.html
 - https://horovod.readthedocs.io/en/examples/spark/keras/keras_spark_rossmann_estimator.py
 
-Distributed Deep Learning (Elephas):
+Elephas:
 - https://github.com/maxpumperla/elephas
 - https://towardsdatascience.com/how-to-train-your-neural-networks-in-parallel-with-keras-and-apache-spark-ea8a3f48cae6
 - https://towardsdatascience.com/distributed-deep-learning-pipelines-with-pyspark-and-keras-a3a1c22b9239
 
-Distributed Deep Learning (TensorFlowOnSpark):
+TensorFlowOnSpark:
 - https://github.com/yahoo/TensorFlowOnSpark
 
-Distributed Deep Learning (Ray):
+Ray:
 - https://medium.com/pytorch/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-fd83c98fdead). 
 
-Distributed Deep Learning (Analytics Zoo):
+Analytics Zoo:
 - https://github.com/intel-analytics/analytics-zoo
