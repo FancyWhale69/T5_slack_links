@@ -1,5 +1,5 @@
-# T5_slack_links:  
-This repo contain all the links sent to T5C05 channel on slack.  
+# T5C05 Slack links:  
+This repo contain all the links sent to T5C05 channel on Slack.  
 
 # How is it organized?  
 All the links are orginized by module for example all the links sent during module one will be grouped together.  
@@ -509,7 +509,8 @@ Word Embeddings:
 
 # Module 6: Deep Learning
 
-Activation Functions
+## Feed-Forward Neural Networks
+### Activation Functions
 - https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 - https://www.v7labs.com/blog/neural-networks-activation-functions
 - https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0
@@ -518,73 +519,105 @@ Activation Functions
 - https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0
 - https://himanshuxd.medium.com/activation-functions-sigmoid-relu-leaky-relu-and-softmax-basics-for-neural-networks-and-deep-8d9c70eed91e
 
-Hidden Layers
+### Hidden Layers
 - https://medium.com/fintechexplained/what-are-hidden-layers-4f54f7328263
 - https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute
 - https://www.quora.com/What-is-the-role-of-a-hidden-layer
 
-Vanishing Gradient
+### Vanishing Gradient
 - https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/
 - https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484
 - https://machinelearningmastery.com/how-to-fix-vanishing-gradients-using-the-rectified-linear-activation-function/
- 
-Neural Network Optimization:
+
+### Exploding Gradient
+- https://machinelearningmastery.com/exploding-gradients-in-neural-networks/#:~:text=Exploding%20gradients%20are%20a%20problem,learn%20from%20your%20training%20data.
+- 
+### Neural Network Optimization:
 - https://towardsdatascience.com/overview-of-various-optimizers-in-neural-networks-17c1be2df6d5
 - https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
 - https://www.deeplearning.ai/ai-notes/optimization/
 - https://medium.com/nerd-for-tech/optimizers-for-neural-networks-a74cb4152307
 
-Backprogagation:
+### Loss Function:
+- https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
+- https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/
+
+
+### Backprogagation:
 - https://hmkcode.com/ai/backpropagation-step-by-step/
 - https://hmkcode.com/netflow/
 - http://experiments.mostafa.io/public/ffbpann/
 - https://mmuratarat.github.io/2020-01-09/backpropagation
 - https://inblog.in/Part-2-Training-a-Neural-Network-with-Backpropagation-Mathematics-bdyEJx6bKU
 - https://medium.com/swlh/backpropagation-step-by-step-13f2b6c0b414
+- https://towardsdatascience.com/the-maths-behind-back-propagation-cf6714736abf
 
-Backpropagation and Gradient Descent:
+### Backpropagation and Gradient Descent:
 - https://towardsdatascience.com/a-step-by-step-implementation-of-gradient-descent-and-backpropagation-d58bda486110
 
-Weights Initialization:
+### Weights Initialization:
 - https://medium.com/@safrin1128/weight-initialization-in-neural-network-inspired-by-andrew-ng-e0066dc4a566#:~:text=Zero%20initialization%3A&text=If%20all%20the%20weights%20are,will%20produce%20a%20poor%20result.
 
-Tips for Training Neural Networks:
+### Batch Normalization
+- https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/
+- https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338
+- https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/
+
+#### Batch Normalization in Keras
+- https://www.tensorflow.org/api_docs/python/tf/keras/layers/BatchNormalization
+
+### Drop-Out
+- https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/
+- https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5
+- https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
+- https://towardsdatascience.com/machine-learning-part-20-dropout-keras-layers-explained-8c9f6dc4c9ab
+- https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275
+
+### Early Stopping:
+- https://machinelearningmastery.com/early-stopping-to-avoid-overtraining-neural-network-models/
+
+### Using Learning Curves
+- https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/
+
+### Tips for Training Neural Networks:
 - https://karpathy.github.io/2019/04/25/recipe/
 
-Callbacks in Keras:
+## Deep Learning Packages
+
+### Callbacks in Keras:
 - https://keras.io/api/callbacks/
 - https://www.kdnuggets.com/2019/08/keras-callbacks-explained-three-minutes.html
 
-TensorBoard in Keras:
+### TensorBoard in Keras:
 - https://keras.io/api/callbacks/tensorboard
 - https://www.tensorflow.org/tensorboard/scalars_and_keras
 - https://www.machinecurve.com/index.php/2019/11/13/how-to-use-tensorboard-with-keras/
 - https://neptune.ai/blog/tensorboard-tutorial
 
-Pytorch Introduction
+### Pytorch Introduction
 - https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 - https://cs230.stanford.edu/blog/pytorch/
 - https://theblog.github.io/post/from-tensorflow-to-pytorch/
 - https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html
  
-Ames Housing Dataset using Pytorch (we used Keras in class):
+### Ames Housing Dataset using Pytorch (we used Keras in class):
 - https://www.kaggle.com/achinta/pytorch-for-house-pricing
 - https://www.kaggle.com/jongbeompark/house-prices-with-pytorch
 - https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/chapter_multilayer-perceptrons/kaggle-house-price.ipynb
 
-Keras vs Pytorch Notebook:
+### Keras vs Pytorch Notebook:
 - https://deepsense.ai/keras-or-pytorch/
 - https://www.freecodecamp.org/news/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02/
 
-Tensorflow vs Pytorch:
+### Tensorflow vs Pytorch:
 - https://towardsdatascience.com/tensorflow-or-pytorch-146f5397278a
 
-Convolutional Neural Networks:
+## Convolutional Neural Networks (CNN)
 - https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network
 - https://poloclub.github.io/cnn-explainer/ (Courtesy of Ahmed)
 - https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/
 
-CNN Slides used in class:
+### CNN Slides used in class
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-what-are-convolutional-neural-networks
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-step-1-convolution-operation
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-step-1b-relu-layer
@@ -593,47 +626,113 @@ CNN Slides used in class:
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-step-4-full-connection
 - https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-summary
 
-Filters and Feature Maps Visualization:
+### Filters and Feature Maps Visualization:
 - https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/
 
-Innovations in CNN for image classification:
+### Innovations in CNN for image classification:
 - https://machinelearningmastery.com/review-of-architectural-innovations-for-convolutional-neural-networks-for-image-classification/
 
-Data Augmentation for CNN:
+### Data Augmentation for CNN:
 - https://machinelearningmastery.com/best-practices-for-preparing-and-augmenting-image-data-for-convolutional-neural-networks/
 - https://www.tensorflow.org/tutorials/images/data_augmentation
 - https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
 - https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/
 - https://medium.com/featurepreneur/image-data-augmentation-using-keras-imagedatagenerator-1cee60255ea8
  
-Image Data Preprocessing in Keras:
+### Image Data Preprocessing in Keras:
 - https://keras.io/api/preprocessing/image/
 - https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/
  
-Loading and Saving Images with Keras:
+### Loading and Saving Images with Keras:
 - https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/
 - https://machinelearningmastery.com/how-to-load-and-manipulate-images-for-deep-learning-in-python-with-pil-pillow/
 
-Padding in CNN:
+### Padding in CNN:
 - https://analyticsindiamag.com/guide-to-different-padding-methods-for-cnn-models/
 
-Padding and stride in CNN:
+### Padding and stride in CNN:
 - https://machinelearningmastery.com/padding-and-stride-for-convolutional-neural-networks/
 
-Convolutional Layer in CNN:
+### Convolutional Layer in CNN:
 - https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/
 
-Pooling Layer in CNN:
+### Pooling Layer in CNN:
 - https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
 
-Deep Learning Notebooks by Francois Chollet:
+## Notebooks
+
+### Deep Learning Notebooks by Francois Chollet:
 - https://github.com/fchollet/deep-learning-with-python-notebooks
 
-Generative Adversarial Networks (GAN) Notebooks:
+## Generative Adversarial Networks (GAN)
+- https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
+- https://developers.google.com/machine-learning/gan
+- https://towardsdatascience.com/a-basic-intro-to-gans-generative-adversarial-networks-c62acbcefff3
+- https://stackabuse.com/introduction-to-gans-with-python-and-tensorflow/
+- https://towardsdatascience.com/generative-adversarial-networks-in-python-73d3972823d3
+- https://wiki.pathmind.com/generative-adversarial-network-gan
+- https://deeplizard.com/lesson/gaa1ilrazd
+- https://theaisummer.com/gan-computer-vision/
+- https://zsdonghao.github.io/courses/deep-learning/material/Ch8-1%20Introduction%20of%20GAN%20(1h).pdf
+
+### Generative Adversarial Networks (GAN) Notebooks:
 - https://colab.research.google.com/github/smartgeometry-ucl/dl4g/blob/master/gan.ipynb
 - https://github.com/jonbruner/generative-adversarial-networks
 - https://github.com/wiseodd/generative-models
 
+## AutoEncoders
+- https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798
+- https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726
+- https://www.v7labs.com/blog/autoencoders-guide
+- https://www.jeremyjordan.me/autoencoders/
+
+### AutoEncoders in Keras
+- https://blog.keras.io/building-autoencoders-in-keras.html
+
+### Variants of AutoEncoders
+- https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64#:~:text=A%20stacked%20autoencoder%20is%20a,of%20the%20successive%20hidden%20layer.&text=The%20learned%20data%20from%20the,until%20the%20training%20is%20completed.
+
+### Variational AutoEncoders
+- https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
+- https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
+- https://www.jeremyjordan.me/variational-autoencoders/
+- https://www.kdnuggets.com/2021/10/introduction-autoencoder-variational-autoencoder-vae.html
+
+### Stacked AutoEncoders
+- https://towardsdatascience.com/stacked-autoencoders-f0a4391ae282
+- https://www.quora.com/What-is-the-detailed-explanation-of-Stacked-Denoising-Autoencoder
+
+## Recurrent Neural Networks (RNN)
+- https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
+- https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7
+- https://builtin.com/data-science/recurrent-neural-networks-and-lstm#:~:text=Recurrent%20neural%20networks%20(RNN)%20are%20a%20class%20of%20neural%20networks,that%20other%20algorithms%20can't.
+- https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
+
+### Mathematics behind RNN
+- https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/
+- https://vidishajitani.medium.com/recurrent-neural-network-maths-69214e4d69e1
+- https://towardsdatascience.com/under-the-hood-of-neural-networks-part-2-recurrent-af091247ba78
+
+### Long Short-Term Memory (LSTM):
+- https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/#:~:text=Long%20Short%2DTerm%20Memory%20(LSTM,complex%20area%20of%20deep%20learning.
+- https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+- https://www.analyticsvidhya.com/blog/2021/03/introduction-to-long-short-term-memory-lstm/
+- https://www.geeksforgeeks.org/long-short-term-memory-networks-explanation/
+
+#### Mathematics behind LSTM
+- https://medium.com/@leenabora1/simplified-math-behind-complex-lstm-equations-66cff0d52d78
+- https://medium.com/deep-math-machine-learning-ai/chapter-10-1-deepnlp-lstm-long-short-term-memory-networks-with-math-21477f8e4235
+- https://towardsdatascience.com/lstm-gradients-b3996e6a0296
+- https://www.quora.com/How-do-I-understand-the-architecture-and-maths-of-an-LSTM-neural-network
+- https://medium.datadriveninvestor.com/long-short-term-memory-maths-part-1-d99b3c3b09d0
+- https://medium.datadriveninvestor.com/long-short-term-memory-maths-part-2-e938b1b42f74
+
+### Gated Recurrent Units (GRU)
+- https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
+- https://www.analyticsvidhya.com/blog/2021/03/introduction-to-gated-recurrent-unit-gru/
+
+## Model Interpretation
 Explaining the Black-Box in Neural Networks:
 - https://www.analyticsvidhya.com/blog/2020/03/6-python-libraries-interpret-machine-learning-models/
 - https://towardsdatascience.com/6-top-python-packages-for-machine-learning-interpretability-f9fec3c2d1e9
@@ -643,51 +742,246 @@ Explaining the Black-Box in Neural Networks:
 - https://towardsdatascience.com/interpretable-neural-networks-45ac8aa91411
 - https://towardsdatascience.com/interpretability-of-deep-learning-models-9f52e54d72ab
 
-AutoKeras (Automated Keras):
+## Automatic Model Selection
+### AutoKeras (Automated Keras):
 - https://github.com/keras-team/autokeras
 
-Model Serialization for Deep Learning (similar to pickling):
+## Model Serialization 
+### Model Serialization for Deep Learning (similar to pickling):
 - https://github.com/onnx/onnx
 
-Deep Learning Model Serving:
+## Model Serving
+### Deep Learning Model Serving:
 - https://neptune.ai/blog/ml-model-serving-best-tools
 - https://towardsdatascience.com/serve-your-machine-learning-models-with-a-simple-python-server-5a72d005e0ae
 
-Deep Learning Model Serving with TensorFlow:
+### Keras Model Serving on Flask:
+- https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5da4181436a2
+- https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
+- https://curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/
+- https://medium.datadriveninvestor.com/tensorflow-and-keras-model-deployment-using-flask-in-google-colab-b8e49d1d4af0
+- https://medium.datadriveninvestor.com/flask-api-for-keras-87c06da174e8
+- https://towardsdatascience.com/deploying-keras-models-using-tensorflow-serving-and-flask-508ba00f1037
+- https://deeplizard.com/learn/video/XgzxH6G-ufA
+- https://www.youtube.com/watch?v=H73m9XvKHug
+- https://analyticsarora.com/how-to-make-a-flask-web-app-for-keras-model/
+
+### Deep Learning Model Serving with TensorFlow:
 - https://www.tensorflow.org/serving/
 
-Deep Learning Model Serving with Pytorch:
+### Deep Learning Model Serving with Pytorch:
 - https://pytorch.org/serve/
 
-Deep Learning for Computer Vision Notebook:
+### Tensorflow.js and Keras.js for using Deep Learning Models in the Browser:
+- https://codelabs.developers.google.com/codelabs/tensorflowjs-convert-python-savedmodel#0
+- https://pythonprogramming.net/loading-keras-model-tensorflowjs-tutorial/
+- https://www.tensorflow.org/js/tutorials/conversion/import_keras
+
+### Plotly:
+- https://chart-studio.plotly.com/~ali_mirza/72/training-loss-for-keras-vs-training-loss-for-pytorch/
+- https://community.plotly.com/t/deploying-keras-model-in-web-app-with-real-time-plots-using-plotly/23212
+- https://medium.com/@jefflai108/visualizing-deep-learning-with-plotly-8f2500e24b27
+- https://www.kaggle.com/paultimothymooney/identify-sentence-author-keras-plotly
+- https://odsc.com/speakers/general-training-session-deep-learning-python-using-keras-tensorflow/
+- https://towardsdatascience.com/keras-101-a-simple-and-interpretable-neural-network-model-for-house-pricing-regression-31b1a77f05ae
+
+### Tensorflow Lite:
+- https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/chapter-08-serverless
+
+### Model Serving on Kubernetes via Kubeflow:
+- https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/chapter-09-kubernete
+
+### Deploying a Deep Learning model using Flask and Heroku:
+- https://towardsdatascience.com/deploying-a-deep-learning-model-on-heroku-using-flask-and-python-769431335f66
+
+### Deploying a model using Flask and Heroku (not Deep Learning specific):
+- https://towardsdatascience.com/deploy-your-python-machine-learning-models-on-heroku-in-3-steps-dc5b6aca73d9
+- https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50
+- https://medium.com/@nutanbhogendrasharma/deploy-machine-learning-model-with-flask-on-heroku-cd079b692b1d
+
+## Computer Vision
+
+### Deep Learning for Computer Vision Notebook:
 - https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb
 
-Object Detection with Keras:
+### Object Detection
+#### Object Detection with Keras:
 - https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
 
-Image Classification Tutorial:
+### Image Classification
+#### Image Classification Tutorial:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
 
-Face Detection with Keras:
-- https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
-
-Face Recognition using Keras:
-- https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
-
-CNN for MNIST dataset:
+#### CNN for MNIST dataset:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
 
+### Face Detection
+#### Face Detection with Keras:
+- https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
+
+### Face Recognition
+#### Face Recognition using Keras:
+- https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
+
+### Solving CAPTCHAs using Deep Learning
+- https://towardsdatascience.com/deep-learning-drops-breaking-captcha-20c8fc96e6a3
+- https://towardsdatascience.com/solving-captchas-machine-learning-vs-online-services-3596ad6f0137
+- https://www.pyimagesearch.com/2021/07/14/breaking-captchas-with-deep-learning-keras-and-tensorflow/
+- https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710
+
+### Optical Character Recognition (OCR)
+- https://nanonets.com/blog/deep-learning-ocr/
+- https://nanonets.com/blog/attention-ocr-for-text-recogntion/
+- https://towardsdatascience.com/how-did-i-train-an-ocr-model-using-keras-and-tensorflow-7e10b241c22b
+- https://towardsdatascience.com/get-started-with-deep-learning-ocr-136ac645db1d
+
+#### OCR (Arabic)
+- https://github.com/HusseinYoussef/Arabic-OCR
+- https://pypi.org/project/ArabicOcr/
+- https://pythonrepo.com/repo/HusseinYoussef-Arabic-OCR-python-computer-vision
+- https://www.quora.com/How-can-I-use-Tesseract-OCR-to-extract-Arabic-language-from-image-using-python
+- https://www.arabicprogrammer.com/article/61601864637/
+- https://stackoverflow.com/questions/48358289/tensorflow-model-for-ocr-arabic
+- http://rafietarabay.blogspot.com/2019/08/arabic-ocr-in-python.html
+
+## Remote Sensing
 Satellite Image Classification:
 - https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-satellite-photos-of-the-amazon-rainforest/
 
-End-to-End Deep Learning Projects in Keras:
+## Projects
+
+### End-to-End Deep Learning Projects in Keras:
 - https://towardsdatascience.com/an-end-to-end-machine-learning-project-with-python-pandas-keras-flask-docker-and-heroku-c987018c42c7
 - https://medium.com/analytics-vidhya/end-to-end-image-classification-project-using-tensorflow-46e78298fa2f
 - https://varshitasher.medium.com/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16
 - https://github.com/V-Sher/house-interior-prediction
 - https://www.storytel.com/it/it/books/keras-2-x-projects-9-projects-demonstrating-faster-experimentation-of-neural-network-and-deep-learning-applications-using-keras-891395
 
-Tensorflow.js and Keras.js for using Deep Learning Models in the Browser:
-- https://codelabs.developers.google.com/codelabs/tensorflowjs-convert-python-savedmodel#0
-- https://pythonprogramming.net/loading-keras-model-tensorflowjs-tutorial/
-- https://www.tensorflow.org/js/tutorials/conversion/import_keras
+### Project Ideas:
+- https://github.com/NirantK/awesome-project-ideas
+- https://github.com/21-projects-for-deep-learning
+- https://github.com/PacktPublishing/Intelligent-Projects-Using-Python
+- https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/blob/main/README.md
+- https://github.com/goodrahstar/Python-Deep-Learning-Projects
+- https://github.com/PacktPublishing/Python-Deep-Learning-Projects
+- https://github.com/PacktPublishing/TensorFlow-Deep-Learning-Projects
+- https://github.com/Apress/Deep-Learning-Projects-Using-TensorFlow-2
+- https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects
+- https://github.com/jtoy/awesome-tensorflow
+
+## Natural Language Processing (NLP)
+
+### Arabic NLP:
+- https://towardsdatascience.com/machine-learning-advancements-in-arabic-nlp-c6982b2f602b
+- https://towardsdatascience.com/arabic-nlp-unique-challenges-and-their-solutions-d99e8a87893d
+- https://github.com/topics/arabic-nlp
+- https://github.com/Barqawiz/Shakkala
+
+### Arabic NLP Datasets:
+- https://pythonrepo.com/repo/ARBML-masader-python-natural-language-processing
+
+### Word Embeddings
+- https://machinelearningmastery.com/what-are-word-embeddings/#:~:text=A%20word%20embedding%20is%20a,meaning%20have%20a%20similar%20representation.&text=Each%20word%20is%20mapped%20to,the%20field%20of%20deep%20learning.
+- https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795
+- https://neptune.ai/blog/word-embeddings-guide
+- https://www.mygreatlearning.com/blog/word-embedding/
+- https://medium.com/analytics-vidhya/word-embeddings-explained-62c046f7c79e
+- https://medium.com/@b.terryjack/nlp-everything-about-word-embeddings-9ea21f51ccfe
+
+#### Word2Vec
+- https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa
+- https://jalammar.github.io/illustrated-word2vec/
+- https://wiki.pathmind.com/word2vec#:~:text=Word2vec%20is%20an%20algorithm%20used,a%20lookup%20table%20or%20dictionary.
+- https://towardsdatascience.com/word2vec-explained-49c52b4ccb71
+
+#### GloVe
+- https://towardsdatascience.com/light-on-math-ml-intuitive-guide-to-understanding-glove-embeddings-b13b4f19c010
+- https://nlp.stanford.edu/projects/glove/
+- https://becominghuman.ai/mathematical-introduction-to-glove-word-embedding-60f24154e54c
+- https://d2l.ai/chapter_natural-language-processing-pretraining/glove.html
+- 
+### Named Entity Recognition (NER)
+#### NER
+- https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede
+- https://medium.com/analytics-vidhya/named-entity-recognition-using-deep-learning-elmo-embedding-bi-lstm-48295bc66cab
+- https://www.aitimejournal.com/@akshay.chavan/complete-tutorial-on-named-entity-recognition-ner-using-python-and-keras
+
+#### NER for Arabic Text
+- https://github.com/ibrahim85/Arabic-Named-Entity-Recognition-1
+- https://www.researchgate.net/publication/339186251_Transfer_Learning_for_Arabic_Named_Entity_Recognition_With_Deep_Neural_Networks
+- https://awesomeopensource.com/projects/arabic-nlp/named-entity-recognition/python
+
+### Neural Network Models for NLP
+- https://jalammar.github.io/illustrated-bert/
+- https://daleonai.com/transformers-explained
+
+#### Transformers
+- https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
+- https://jalammar.github.io/illustrated-transformer/
+- https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0
+- https://machinelearningmastery.com/the-transformer-model/
+- https://neptune.ai/blog/comprehensive-guide-to-transformers
+
+#### BiDirectional Encoder Representations for Transformers (BERT)
+- https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03
+- https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/
+- https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+- https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial
+- https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+- https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
+
+#### Embeddings from Language Models (ELMO)
+- https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/#:~:text=ELMo%20is%20a%20novel%20way,as%20well%20as%20the%20industry.
+- https://towardsdatascience.com/elmo-why-its-one-of-the-biggest-advancements-in-nlp-7911161d44be
+- https://towardsdatascience.com/elmo-contextual-language-embedding-335de2268604
+
+#### Generative Pre-Trained Transformers (GPT)
+- https://jalammar.github.io/illustrated-gpt2/
+- https://medium.com/walmartglobaltech/the-journey-of-open-ai-gpt-models-32d95b7b7fb2
+
+#### Encoder-Decoder Model
+- https://towardsdatascience.com/what-is-an-encoder-decoder-model-86b3d57c5e1a
+- https://www.quora.com/What-is-an-Encoder-Decoder-in-Deep-Learning
+- https://machinelearningmastery.com/encoder-decoder-recurrent-neural-network-models-neural-machine-translation/
+
+#### Seq2Seq
+- https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346
+- https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263
+- https://www.guru99.com/seq2seq-model.html
+- https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+- https://machinelearningmastery.com/develop-encoder-decoder-model-sequence-sequence-prediction-keras/
+
+### Chatbots
+- https://towardsdatascience.com/a-simple-chatbot-in-python-with-deep-learning-3e8669997758
+- https://www.analyticsvidhya.com/blog/2021/06/learn-to-develop-a-simple-chatbot-using-python-and-deep-learning/
+- https://www.kdnuggets.com/2019/08/deep-learning-nlp-creating-chatbot-keras.html
+- https://python.plainenglish.io/create-a-deep-learning-chatbot-with-python-and-flask-d75396a4382a
+- https://data-flair.training/blogs/python-chatbot-project/
+- https://pythonprogramming.net/chatbot-deep-learning-python-tensorflow/
+- https://github.com/tatiblockchain/python-deep-learning-chatbot
+
+## Distributed Deep Learning
+
+### SparkTorch
+- https://github.com/dmmiller612/sparktorch
+- https://bhashkarkunal.medium.com/sparktorch-a-high-performance-distributed-deep-learning-library-step-by-step-training-of-pytorch-9b58034fcf9c
+
+### Horovod
+- https://github.com/horovod/horovod
+- https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/horovod-spark.html
+- https://horovod.readthedocs.io/en/stable/spark_include.html
+- https://horovod.readthedocs.io/en/examples/spark/keras/keras_spark_rossmann_estimator.py
+
+### Elephas
+- https://github.com/maxpumperla/elephas
+- https://towardsdatascience.com/how-to-train-your-neural-networks-in-parallel-with-keras-and-apache-spark-ea8a3f48cae6
+- https://towardsdatascience.com/distributed-deep-learning-pipelines-with-pyspark-and-keras-a3a1c22b9239
+
+### TensorFlowOnSpark
+- https://github.com/yahoo/TensorFlowOnSpark
+
+### Ray
+- https://medium.com/pytorch/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-fd83c98fdead). 
+
+### Analytics Zoo
+- https://github.com/intel-analytics/analytics-zoo
